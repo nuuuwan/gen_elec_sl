@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 import REGION_CODE_TO_NAME from '../constants/REGION_CODE_TO_NAME.js';
 import {getPartyColor, getWinningParty} from '../utils/party.js';
-import {getT} from '../utils/polygon.js';
+import {getBBox, getT} from '../utils/polygon.js';
 
 function renderPolygon(iRegion, iPolygon, t, polygon, color) {
   const d = polygon.map(
@@ -30,7 +30,7 @@ export default class ChartMap extends Component {
     const resultList = this.props.resultList;
     const childRegionCodeType = this.props.childRegionCodeType;
 
-    const [WIDTH, HEIGHT] = [320, 320];
+    const [WIDTH, HEIGHT] = [480, 480];
     const [t, actualWidth, actualHeight] = getT(regionList, WIDTH, HEIGHT);
 
     const childRegionToColor = resultList.reduce(
@@ -58,7 +58,27 @@ export default class ChartMap extends Component {
             return renderPolygon(i, j, t, polygon, color);
           },
         );
+
+        const [minLat, maxLat, minLng, maxLng] = getBBox([{
+          polygonList: polygonList,
+        }]);
+        const [xMid, yMid] = t([
+            (minLat + maxLat) / 2,
+            (minLng + maxLng) / 2,
+        ]);
+        const [x0, y0] = t([
+            minLat,
+            minLng,
+        ]);
+        const [x1, y1] = t([
+            maxLat,
+            maxLng,
+        ]);
         const regionName = REGION_CODE_TO_NAME[childRegionCode];
+        const fontWidth = x1 - x0;
+        const charCount = regionName.length;
+        const fontSize = Math.min(12, 0.8 * fontWidth / charCount);
+
         const href = '#' + childRegionCode;
         return (
           <svg
@@ -68,6 +88,24 @@ export default class ChartMap extends Component {
             <a href={href}>
               {renderedPolygonList}
             </a>
+            <text
+              x={xMid}
+              y={yMid - fontSize / 2}
+              fill={'black'}
+              textAnchor={'middle'}
+              fontSize={fontSize * 1.5}
+            >
+              {childRegionCode}
+            </text>
+            <text
+              x={xMid}
+              y={yMid + fontSize / 2}
+              fill={'black'}
+              textAnchor={'middle'}
+              fontSize={fontSize}
+            >
+              {regionName}
+            </text>
           </svg>
         );
       }
