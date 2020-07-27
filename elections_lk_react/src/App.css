@@ -74,6 +74,10 @@
 	color: lightgray;
 }
 
+.svg-polygon-list:hover {
+	opacity: 0.4;
+}
+
 .td-header {
 	text-align: center;
 	width: 60px;

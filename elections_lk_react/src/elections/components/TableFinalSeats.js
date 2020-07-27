@@ -37,11 +37,8 @@ export default class TableFinalSeats extends Component {
         {
           partyList.map(
             function(partyCode) {
-              const style = {
-                  backgroundColor: getPartyColor(partyCode, true, "50.0%"),
-              };
               return (
-                <td key={partyCode} className="td-header" style={style}>
+                <td key={partyCode} className="td-header">
                   {renderParty(partyCode)}
                 </td>
               );
@@ -62,8 +59,21 @@ export default class TableFinalSeats extends Component {
                 function(partyCode) {
                   const seatCount = bySeatType[seatType][partyCode];
                   const className = (seatCount === 0) ? 'div-percent-zero' : '';
+
+                  let style = {}
+                  if (seatType === 'Total Seats') {
+                    style = {
+                        backgroundColor: getPartyColor(partyCode, true, "50.0%"),
+                    };
+                  }
+
+
                   return (
-                      <td key={partyCode} className={'td-seats ' + className}>
+                      <td
+                        key={partyCode}
+                        className={'td-seats ' + className}
+                        style={style}
+                      >
                         {seatCount}
                       </td>
                   );

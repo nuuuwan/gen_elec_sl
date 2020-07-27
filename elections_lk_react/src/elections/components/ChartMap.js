@@ -83,6 +83,7 @@ export default class ChartMap extends Component {
         return (
           <svg
             key={`polygonList-${i}`}
+            className="svg-polygon-list"
           >
             <title>{`${regionName} (${childRegionCode})`}</title>
             <a href={href}>
