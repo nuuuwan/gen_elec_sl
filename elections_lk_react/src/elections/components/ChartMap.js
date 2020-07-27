@@ -30,7 +30,7 @@ export default class ChartMap extends Component {
     const resultList = this.props.resultList;
     const childRegionCodeType = this.props.childRegionCodeType;
 
-    const [WIDTH, HEIGHT] = [480, 480];
+    const [WIDTH, HEIGHT] = [400, 400];
     const [t, actualWidth, actualHeight] = getT(regionList, WIDTH, HEIGHT);
 
     const childRegionToColor = resultList.reduce(
