@@ -59,10 +59,13 @@ export default class Map extends Component {
           },
         );
         const regionName = REGION_CODE_TO_NAME[childRegionCode];
+        const href = '#' + childRegionCode;
         return (
-          <svg key={`polygonList-${i}`}>
+          <svg
+            key={`polygonList-${i}`}
+          >
             <title>{`${regionName} (${childRegionCode})`}</title>
-            <a href={'#' + childRegionCode}>
+            <a href={href}>
               {renderedPolygonList}
             </a>
           </svg>

@@ -12,14 +12,23 @@ import TableRowHeaderDetailedResults
   from '../components/TableRowHeaderDetailedResults.js';
 
 export default class TableDetailedResultsForED extends Component {
+  _isMounted = false;
+
   constructor(props) {
     super(props);
     this.state = {regionList: undefined};
   }
   async componentDidMount() {
+    this._isMounted = true;
     const edCode = getEDCode(this.props.edDRList);
     const regionList = await getRegionList(edCode);
-    this.setState({regionList: regionList});
+    if (this._isMounted) {
+      this.setState({regionList: regionList});
+    }
+  }
+
+  commponentWillUnmount() {
+    this._isMounted = false;
   }
 
   render() {
