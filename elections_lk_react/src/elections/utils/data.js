@@ -1,9 +1,19 @@
 import ED_TO_PD_LIST from '../constants/ED_TO_PD_LIST.js';
+import {cacheGet} from '../utils/cache.js';
 
-async function getJson(jsonFileName) {
-  const response = await fetch(jsonFileName);
-  return await response.json();
+async function getJson(jsonFileName, isCached=false) {
+  async function fallback() {
+    const response = await fetch(jsonFileName);
+    return await response.json();
+  }
+  if (isCached) {
+    const cacheKey = jsonFileName;
+    return await cacheGet(cacheKey, fallback);
+  } else {
+    return fallback();
+  }
 }
+
 export async function getResultGroups(year) {
   const dataFileName = `data/elections/gen_elec_sl.ec.results.${year}.json`;
   const resultList = await getJson(dataFileName)
@@ -18,7 +28,7 @@ export async function getRegionList(edCode) {
       const polygonFileName = `data/maps/EC-${pdCode}.json`;
       return {
           childRegionCode: pdCode,
-          polygonList: await getJson(polygonFileName),
+          polygonList: await getJson(polygonFileName, false),
       }
     },
   ));
@@ -31,7 +41,7 @@ export async function getRegionListLK() {
       const polygonFileName = `data/maps/EC-${edCode}.json`;
       return {
           childRegionCode: edCode,
-          polygonList: await getJson(polygonFileName),
+          polygonList: await getJson(polygonFileName, true),
       }
     },
   ));
