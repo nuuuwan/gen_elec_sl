@@ -4,7 +4,8 @@ import {getRegionListLK, sort} from '../utils/data.js';
 import {getPartyList} from '../utils/party.js';
 import {renderLoading} from '../utils/render.js';
 
-import Map from '../components/Map.js';
+import ChartMap from '../components/ChartMap.js';
+import ChartPie from '../components/ChartPie.js';
 import TableRowDetailedResults from '../components/TableRowDetailedResults.js';
 import TableRowHeaderDetailedResults
   from '../components/TableRowHeaderDetailedResults.js';
@@ -75,12 +76,13 @@ export default class TableEDSummary extends Component {
       <div>
         <h1>Summary Results by Electoral District</h1>
         <p>{`${nReleased} of 22 Electoral Districts Complete.`}</p>
-        <Map
+        <ChartMap
           parentRegionCode={'LK'}
           childRegionCodeType={'ed_code'}
           regionList={regionList}
           resultList={edSummary}
         />
+        <ChartPie result={lkSummaryIncrLast}/>
         {table}
         <p>* Complete Electoral Districts Only</p>
       </div>

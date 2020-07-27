@@ -24,7 +24,7 @@ function renderPolygon(iRegion, iPolygon, t, polygon, color) {
   );
 }
 
-export default class Map extends Component {
+export default class ChartMap extends Component {
   render() {
     const regionList = this.props.regionList;
     const resultList = this.props.resultList;

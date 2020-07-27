@@ -5,7 +5,8 @@ import {getPartyList} from '../utils/party.js';
 import {renderLoading, renderRegion} from '../utils/render.js';
 import {getEDCode} from '../utils/region.js';
 
-import Map from '../components/Map.js';
+import ChartMap from '../components/ChartMap.js';
+import ChartPie from '../components/ChartPie.js';
 import TableCandidateList from '../components/TableCandidateList.js';
 import TableRowDetailedResults from '../components/TableRowDetailedResults.js';
 import TableRowHeaderDetailedResults
@@ -84,12 +85,13 @@ export default class TableDetailedResultsForED extends Component {
     return (
       <div id={edCode + '-details'}>
         <h2>{renderRegion(edCode)}</h2>
-        <Map
+        <ChartMap
           parentRegionCode={edCode}
           childRegionCodeType={'pd_code'}
           regionList={regionList}
           resultList={resultList}
         />
+        <ChartPie result={resultSummary} />
         {table}
         {(candidateResultList) ? (
           <TableCandidateList
