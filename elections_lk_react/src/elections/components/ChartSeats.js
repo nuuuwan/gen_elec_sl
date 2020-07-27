@@ -81,18 +81,18 @@ export default class ChartSeats extends Component {
         <text
           x={x12}
           y={BOX_DIM * 1.2}
-          fill={'black'}
+          fill={'gray'}
           textAnchor={'middle'}
-          fontSize={18}
+          fontSize={BOX_DIM * 0.6}
         >
-          ½
+          Majority
         </text>
         <line
           x1={x23}
           x2={x23}
           y1={BOX_DIM * 1.5}
           y2={height}
-          stroke={'gray'}
+          stroke={'black'}
           strokeDasharray={'2,2'}
         />
         <text
@@ -100,9 +100,9 @@ export default class ChartSeats extends Component {
           y={BOX_DIM * 1.2}
           fill={'black'}
           textAnchor={'middle'}
-          fontSize={18}
+          fontSize={BOX_DIM * 0.6}
         >
-          ⅔
+          Two-Thirds
         </text>
       </svg>
     )
