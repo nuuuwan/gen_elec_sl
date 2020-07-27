@@ -15,10 +15,7 @@ export function renderEmptyCell() {
 export function renderParty(partyCode) {
   const imageFileName = `party_logos/logo_${partyCode}.png`;
   return (
-    <div className="div-party">
-      <div className="div-subtext">
-        {getPartyName(partyCode)}
-      </div>
+    <div className="div-party" title={getPartyName(partyCode)}>
       <div>{partyCode}</div>
       <img className="img-party-logo" src={imageFileName} alt="" />
     </div>
