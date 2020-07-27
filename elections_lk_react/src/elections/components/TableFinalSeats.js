@@ -1,7 +1,9 @@
 import React, {Component} from 'react';
 
-import {getPartyList} from '../utils/party.js';
+import {getPartyColor, getPartyList} from '../utils/party.js';
 import {renderParty} from '../utils/render.js';
+
+import ChartSeats from '../components/ChartSeats.js';
 
 export default class TableFinalSeats extends Component {
   render() {
@@ -35,8 +37,11 @@ export default class TableFinalSeats extends Component {
         {
           partyList.map(
             function(partyCode) {
+              const style = {
+                  backgroundColor: getPartyColor(partyCode, true, "50.0%"),
+              };
               return (
-                <td key={partyCode} className="td-header">
+                <td key={partyCode} className="td-header" style={style}>
                   {renderParty(partyCode)}
                 </td>
               );
@@ -80,6 +85,7 @@ export default class TableFinalSeats extends Component {
     return (
       <div>
         <h1>Final Islandwide Results</h1>
+        <ChartSeats result={finalSeats} />
         {table}
       </div>
     );
