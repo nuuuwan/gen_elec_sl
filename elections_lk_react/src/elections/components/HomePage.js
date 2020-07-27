@@ -67,23 +67,26 @@ export default class HomePage extends Component {
 
     return (
       <div id="HomePage" key="HomePage">
-        <YearSelector onChangeYear={onChangeYear} selectedYear={year}/>
-        <h1>{`${year} Sri Lankan Parlimentary Elections`}</h1>
-        <p className="p-download" onClick={onDownloadResults}>
-          Download Results as JSON
-        </p>
-        <hr/>
-        <TableLatestResults detailedResultList={detailedResultList} />
-        <TableFinalSeats finalSeats={finalSeats} />
-        <TableEDSummary
-          edSummary={edSummary}
-          lkSummaryIncrLast={lkSummaryIncrLast}
-        />
-        <TableDetailedResults
-          detailedResultList={detailedResultList}
-          edResultSummaryList={edResultSummaryList}
-          candidateResultList={candidateResultList}
-        />
+        <div id="home-page-header">
+          <YearSelector onChangeYear={onChangeYear} selectedYear={year}/>
+          <h1>{`${year} Sri Lankan Parlimentary Elections`}</h1>
+          <p className="p-download" onClick={onDownloadResults}>
+            Download Results as JSON
+          </p>
+        </div>
+        <div id="home-page-body">
+          <TableLatestResults detailedResultList={detailedResultList} />
+          <TableFinalSeats finalSeats={finalSeats} />
+          <TableEDSummary
+            edSummary={edSummary}
+            lkSummaryIncrLast={lkSummaryIncrLast}
+          />
+          <TableDetailedResults
+            detailedResultList={detailedResultList}
+            edResultSummaryList={edResultSummaryList}
+            candidateResultList={candidateResultList}
+          />
+        </div>
       </div>
     );
   }
