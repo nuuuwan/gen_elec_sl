@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import GEN_ELEC_YEAR_LIST from '../constants/GEN_ELEC_YEAR_LIST.js';
 import RESULT_TYPE from '../constants/RESULT_TYPE.js';
 
-import {getResultGroups} from '../utils/data.js';
+import {downloadResults, getResultGroups} from '../utils/data.js';
 import {renderLoading} from '../utils/render.js';
 
 import TableDetailedResults from '../components/TableDetailedResults.js';
@@ -61,10 +61,17 @@ export default class HomePage extends Component {
       await this.updateYear(year);
     }.bind(this);
 
+    const onDownloadResults = async function() {
+      await downloadResults(year);
+    }
+
     return (
       <div id="HomePage" key="HomePage">
         <YearSelector onChangeYear={onChangeYear} selectedYear={year}/>
         <h1>{`${year} Sri Lankan Parlimentary Elections`}</h1>
+        <p className="p-download" onClick={onDownloadResults}>
+          Download Results as JSON
+        </p>
         <hr/>
         <TableLatestResults detailedResultList={detailedResultList} />
         <TableFinalSeats finalSeats={finalSeats} />

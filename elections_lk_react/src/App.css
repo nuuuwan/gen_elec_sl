@@ -59,6 +59,16 @@
 	max-height: 32px;
 }
 
+.p-download {
+	color: gray;
+	font-size: 12px;
+}
+
+.p-download:hover {
+	cursor: grabbing;
+	font-weight: bold;
+}
+
 .span-empty-cell {
 	color: lightgray;
 }

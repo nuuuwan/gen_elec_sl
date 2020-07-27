@@ -1,3 +1,5 @@
+import fileDownload from 'js-file-download';
+
 import ED_TO_PD_LIST from '../constants/ED_TO_PD_LIST.js';
 import {cacheGet} from '../utils/cache.js';
 
@@ -14,10 +16,13 @@ async function getJson(jsonFileName, isCached=false) {
   }
 }
 
-export async function getResultGroups(year) {
+export async function getResults(year) {
   const dataFileName = `data/elections/gen_elec_sl.ec.results.${year}.json`;
-  const resultList = await getJson(dataFileName)
+  return await getJson(dataFileName)
+}
 
+export async function getResultGroups(year) {
+  const resultList = await getResults(year)
   return mapReduce(resultList.slice(0, 1000), x => x.type, x => x);
 }
 
@@ -81,5 +86,13 @@ export function sort(dataList, sortField) {
     function(a, b) {
       return a[sortField].localeCompare(b[sortField]);
     },
+  );
+}
+
+export async function downloadResults(year) {
+  const resultList = await getResults(year);
+  fileDownload(
+    JSON.stringify(resultList),
+    `gen_elec_sl.ec.results.${year}.json`,
   );
 }
