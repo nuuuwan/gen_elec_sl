@@ -2,9 +2,6 @@ export async function cacheGet(cacheKey, fallback) {
   const tStart = Date.now()
   const dataJson = localStorage.getItem(cacheKey);
   if (dataJson) {
-    const tDelta = Date.now() - tStart;
-    const dataSize = dataJson.length / 1000;
-    console.debug(`cacheGet: ${cacheKey} ${dataSize}KB  in ${tDelta}s`);
     return JSON.parse(dataJson);
   }
 
