@@ -1,7 +1,7 @@
 [
   {
     "sequence_number": "0001",
-    "timestamp": 1080907520.0,
+    "timestamp": 1080907291.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -118,7 +118,7 @@
   },
   {
     "sequence_number": "0002",
-    "timestamp": 1080907520.0,
+    "timestamp": 1080907291.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -233,7 +233,7 @@
   },
   {
     "sequence_number": "0003",
-    "timestamp": 1080907595.0,
+    "timestamp": 1080907690.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -314,7 +314,7 @@
   },
   {
     "sequence_number": "0004",
-    "timestamp": 1080907595.0,
+    "timestamp": 1080907690.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -393,7 +393,7 @@
   },
   {
     "sequence_number": "0005",
-    "timestamp": 1080908031.0,
+    "timestamp": 1080908074.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -474,7 +474,7 @@
   },
   {
     "sequence_number": "0006",
-    "timestamp": 1080908031.0,
+    "timestamp": 1080908074.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -553,7 +553,7 @@
   },
   {
     "sequence_number": "0007",
-    "timestamp": 1080908433.0,
+    "timestamp": 1080908613.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -688,7 +688,7 @@
   },
   {
     "sequence_number": "0008",
-    "timestamp": 1080908433.0,
+    "timestamp": 1080908613.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -821,7 +821,7 @@
   },
   {
     "sequence_number": "0009",
-    "timestamp": 1080908792.0,
+    "timestamp": 1080908956.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -974,7 +974,7 @@
   },
   {
     "sequence_number": "0010",
-    "timestamp": 1080908792.0,
+    "timestamp": 1080908956.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -1125,7 +1125,7 @@
   },
   {
     "sequence_number": "0011",
-    "timestamp": 1080909195.0,
+    "timestamp": 1080909484.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -1254,7 +1254,7 @@
   },
   {
     "sequence_number": "0012",
-    "timestamp": 1080909195.0,
+    "timestamp": 1080909484.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -1381,7 +1381,7 @@
   },
   {
     "sequence_number": "0013",
-    "timestamp": 1080909575.0,
+    "timestamp": 1080909567.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -1540,7 +1540,7 @@
   },
   {
     "sequence_number": "0014",
-    "timestamp": 1080909575.0,
+    "timestamp": 1080909567.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -1697,7 +1697,7 @@
   },
   {
     "sequence_number": "0015",
-    "timestamp": 1080910076.0,
+    "timestamp": 1080909634.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -1826,7 +1826,7 @@
   },
   {
     "sequence_number": "0016",
-    "timestamp": 1080910076.0,
+    "timestamp": 1080909634.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -1953,7 +1953,7 @@
   },
   {
     "sequence_number": "0017",
-    "timestamp": 1080910238.0,
+    "timestamp": 1080910223.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -2088,7 +2088,7 @@
   },
   {
     "sequence_number": "0018",
-    "timestamp": 1080910238.0,
+    "timestamp": 1080910223.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -2221,7 +2221,7 @@
   },
   {
     "sequence_number": "0019",
-    "timestamp": 1080910686.0,
+    "timestamp": 1080910454.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -2338,7 +2338,7 @@
   },
   {
     "sequence_number": "0020",
-    "timestamp": 1080910686.0,
+    "timestamp": 1080910454.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -2453,7 +2453,7 @@
   },
   {
     "sequence_number": "0021",
-    "timestamp": 1080911048.0,
+    "timestamp": 1080910783.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -2588,7 +2588,7 @@
   },
   {
     "sequence_number": "0022",
-    "timestamp": 1080911048.0,
+    "timestamp": 1080910783.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -2721,7 +2721,7 @@
   },
   {
     "sequence_number": "0023",
-    "timestamp": 1080911374.0,
+    "timestamp": 1080911355.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -2850,7 +2850,7 @@
   },
   {
     "sequence_number": "0024",
-    "timestamp": 1080911374.0,
+    "timestamp": 1080911355.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -2977,7 +2977,7 @@
   },
   {
     "sequence_number": "0025",
-    "timestamp": 1080911496.0,
+    "timestamp": 1080911610.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -3118,7 +3118,7 @@
   },
   {
     "sequence_number": "0026",
-    "timestamp": 1080911496.0,
+    "timestamp": 1080911610.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -3257,7 +3257,7 @@
   },
   {
     "sequence_number": "0027",
-    "timestamp": 1080911790.0,
+    "timestamp": 1080911680.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -3416,7 +3416,7 @@
   },
   {
     "sequence_number": "0028",
-    "timestamp": 1080911790.0,
+    "timestamp": 1080911680.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -3573,7 +3573,7 @@
   },
   {
     "sequence_number": "0029",
-    "timestamp": 1080912251.0,
+    "timestamp": 1080911908.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -3702,7 +3702,7 @@
   },
   {
     "sequence_number": "0030",
-    "timestamp": 1080912251.0,
+    "timestamp": 1080911908.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -3829,7 +3829,7 @@
   },
   {
     "sequence_number": "0031",
-    "timestamp": 1080912523.0,
+    "timestamp": 1080912494.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -3982,7 +3982,7 @@
   },
   {
     "sequence_number": "0032",
-    "timestamp": 1080912523.0,
+    "timestamp": 1080912494.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -4133,7 +4133,7 @@
   },
   {
     "sequence_number": "0033",
-    "timestamp": 1080912936.0,
+    "timestamp": 1080912604.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -4262,7 +4262,7 @@
   },
   {
     "sequence_number": "0034",
-    "timestamp": 1080912936.0,
+    "timestamp": 1080912604.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -4389,7 +4389,7 @@
   },
   {
     "sequence_number": "0035",
-    "timestamp": 1080913136.0,
+    "timestamp": 1080912864.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -4542,7 +4542,7 @@
   },
   {
     "sequence_number": "0036",
-    "timestamp": 1080913136.0,
+    "timestamp": 1080912864.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -4693,7 +4693,7 @@
   },
   {
     "sequence_number": "0037",
-    "timestamp": 1080913607.0,
+    "timestamp": 1080913244.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -4774,7 +4774,7 @@
   },
   {
     "sequence_number": "0038",
-    "timestamp": 1080913607.0,
+    "timestamp": 1080913244.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -4853,7 +4853,7 @@
   },
   {
     "sequence_number": "0039",
-    "timestamp": 1080914112.0,
+    "timestamp": 1080913441.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -5036,7 +5036,7 @@
   },
   {
     "sequence_number": "0040",
-    "timestamp": 1080914112.0,
+    "timestamp": 1080913441.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -5211,7 +5211,7 @@
   },
   {
     "sequence_number": "0041",
-    "timestamp": 1080914412.0,
+    "timestamp": 1080913735.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -5358,7 +5358,7 @@
   },
   {
     "sequence_number": "0042",
-    "timestamp": 1080914412.0,
+    "timestamp": 1080913735.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -5503,7 +5503,7 @@
   },
   {
     "sequence_number": "0043",
-    "timestamp": 1080914689.0,
+    "timestamp": 1080914092.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -5584,7 +5584,7 @@
   },
   {
     "sequence_number": "0044",
-    "timestamp": 1080914689.0,
+    "timestamp": 1080914092.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -5663,7 +5663,7 @@
   },
   {
     "sequence_number": "0045",
-    "timestamp": 1080915033.0,
+    "timestamp": 1080914440.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -5780,7 +5780,7 @@
   },
   {
     "sequence_number": "0046",
-    "timestamp": 1080915033.0,
+    "timestamp": 1080914440.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -5895,7 +5895,7 @@
   },
   {
     "sequence_number": "0047",
-    "timestamp": 1080915582.0,
+    "timestamp": 1080914869.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -6054,7 +6054,7 @@
   },
   {
     "sequence_number": "0048",
-    "timestamp": 1080915582.0,
+    "timestamp": 1080914869.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -6211,7 +6211,7 @@
   },
   {
     "sequence_number": "0049",
-    "timestamp": 1080915994.0,
+    "timestamp": 1080915059.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -6292,7 +6292,7 @@
   },
   {
     "sequence_number": "0050",
-    "timestamp": 1080915994.0,
+    "timestamp": 1080915059.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -6371,7 +6371,7 @@
   },
   {
     "sequence_number": "0051",
-    "timestamp": 1080916468.0,
+    "timestamp": 1080915490.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -6452,7 +6452,7 @@
   },
   {
     "sequence_number": "0052",
-    "timestamp": 1080916468.0,
+    "timestamp": 1080915490.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -6531,7 +6531,7 @@
   },
   {
     "sequence_number": "0053",
-    "timestamp": 1080916844.0,
+    "timestamp": 1080915577.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -6690,7 +6690,7 @@
   },
   {
     "sequence_number": "0054",
-    "timestamp": 1080916844.0,
+    "timestamp": 1080915577.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -6847,7 +6847,7 @@
   },
   {
     "sequence_number": "0055",
-    "timestamp": 1080917107.0,
+    "timestamp": 1080916120.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -6928,7 +6928,7 @@
   },
   {
     "sequence_number": "0056",
-    "timestamp": 1080917107.0,
+    "timestamp": 1080916120.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -7007,7 +7007,7 @@
   },
   {
     "sequence_number": "0057",
-    "timestamp": 1080917629.0,
+    "timestamp": 1080916336.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -7166,7 +7166,7 @@
   },
   {
     "sequence_number": "0058",
-    "timestamp": 1080917629.0,
+    "timestamp": 1080916336.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -7323,7 +7323,7 @@
   },
   {
     "sequence_number": "0059",
-    "timestamp": 1080917988.0,
+    "timestamp": 1080916481.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -7404,7 +7404,7 @@
   },
   {
     "sequence_number": "0060",
-    "timestamp": 1080917988.0,
+    "timestamp": 1080916481.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -7483,7 +7483,7 @@
   },
   {
     "sequence_number": "0061",
-    "timestamp": 1080918082.0,
+    "timestamp": 1080916756.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -7666,7 +7666,7 @@
   },
   {
     "sequence_number": "0062",
-    "timestamp": 1080918082.0,
+    "timestamp": 1080916756.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -7841,7 +7841,7 @@
   },
   {
     "sequence_number": "0063",
-    "timestamp": 1080918384.0,
+    "timestamp": 1080917018.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -7922,7 +7922,7 @@
   },
   {
     "sequence_number": "0064",
-    "timestamp": 1080918384.0,
+    "timestamp": 1080917018.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -8001,7 +8001,7 @@
   },
   {
     "sequence_number": "0065",
-    "timestamp": 1080918661.0,
+    "timestamp": 1080917154.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -8160,7 +8160,7 @@
   },
   {
     "sequence_number": "0066",
-    "timestamp": 1080918661.0,
+    "timestamp": 1080917154.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -8317,7 +8317,7 @@
   },
   {
     "sequence_number": "0067",
-    "timestamp": 1080918995.0,
+    "timestamp": 1080917277.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -8446,7 +8446,7 @@
   },
   {
     "sequence_number": "0068",
-    "timestamp": 1080918995.0,
+    "timestamp": 1080917277.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -8573,7 +8573,7 @@
   },
   {
     "sequence_number": "0069",
-    "timestamp": 1080919449.0,
+    "timestamp": 1080917376.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -8654,7 +8654,7 @@
   },
   {
     "sequence_number": "0070",
-    "timestamp": 1080919449.0,
+    "timestamp": 1080917376.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -8733,7 +8733,7 @@
   },
   {
     "sequence_number": "0071",
-    "timestamp": 1080919729.0,
+    "timestamp": 1080917611.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
@@ -8868,7 +8868,7 @@
   },
   {
     "sequence_number": "0072",
-    "timestamp": 1080919729.0,
+    "timestamp": 1080917611.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -9001,7 +9001,7 @@
   },
   {
     "sequence_number": "0073",
-    "timestamp": 1080919885.0,
+    "timestamp": 1080918153.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -9082,7 +9082,7 @@
   },
   {
     "sequence_number": "0074",
-    "timestamp": 1080919885.0,
+    "timestamp": 1080918153.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9161,7 +9161,7 @@
   },
   {
     "sequence_number": "0075",
-    "timestamp": 1080920456.0,
+    "timestamp": 1080918441.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -9242,7 +9242,7 @@
   },
   {
     "sequence_number": "0076",
-    "timestamp": 1080920456.0,
+    "timestamp": 1080918441.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9321,7 +9321,7 @@
   },
   {
     "sequence_number": "0077",
-    "timestamp": 1080921016.0,
+    "timestamp": 1080918546.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
@@ -9456,7 +9456,7 @@
   },
   {
     "sequence_number": "0078",
-    "timestamp": 1080921016.0,
+    "timestamp": 1080918546.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -9589,7 +9589,7 @@
   },
   {
     "sequence_number": "0079",
-    "timestamp": 1080921372.0,
+    "timestamp": 1080919010.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -9670,7 +9670,7 @@
   },
   {
     "sequence_number": "0080",
-    "timestamp": 1080921372.0,
+    "timestamp": 1080919010.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9759,7 +9759,7 @@
   },
   {
     "sequence_number": "0081",
-    "timestamp": 1080921372.0,
+    "timestamp": 1080919010.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9839,7 +9839,7 @@
   },
   {
     "sequence_number": "0082",
-    "timestamp": 1080921372.0,
+    "timestamp": 1080919010.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9919,7 +9919,7 @@
   },
   {
     "sequence_number": "0083",
-    "timestamp": 1080921372.0,
+    "timestamp": 1080919010.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -9997,71 +9997,16 @@
   },
   {
     "sequence_number": "0084",
-    "timestamp": 1080921372.0,
+    "timestamp": 1080919010.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
-    "by_candidate": [
-      {
-        "candidate_name": "Anandasangari Weerasingalingam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Somasundaram senadirasa Mawayi",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gajendrakumar gankesar Ponnambalam ",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Appathurai Vinayagamurthi",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nadaraja Raviraj",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kanagalingam Sivajilingam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Douglas Devananda",
-        "party_name": "Eelam Democratic Party",
-        "party_code": "EPDP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nadarasa madanarasa",
-        "party_name": "Eelam Democratic Party",
-        "party_code": "EPDP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Theagarajah Maheshwaran",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0085",
-    "timestamp": 1080921785.0,
+    "timestamp": 1080919537.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -10190,7 +10135,7 @@
   },
   {
     "sequence_number": "0086",
-    "timestamp": 1080921785.0,
+    "timestamp": 1080919537.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -10317,7 +10262,7 @@
   },
   {
     "sequence_number": "0087",
-    "timestamp": 1080922077.0,
+    "timestamp": 1080920098.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -10470,7 +10415,7 @@
   },
   {
     "sequence_number": "0088",
-    "timestamp": 1080922077.0,
+    "timestamp": 1080920098.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -10621,7 +10566,7 @@
   },
   {
     "sequence_number": "0089",
-    "timestamp": 1080922233.0,
+    "timestamp": 1080920682.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -10780,7 +10725,7 @@
   },
   {
     "sequence_number": "0090",
-    "timestamp": 1080922233.0,
+    "timestamp": 1080920682.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -10937,7 +10882,7 @@
   },
   {
     "sequence_number": "0091",
-    "timestamp": 1080922427.0,
+    "timestamp": 1080921081.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -11084,7 +11029,7 @@
   },
   {
     "sequence_number": "0092",
-    "timestamp": 1080922427.0,
+    "timestamp": 1080921081.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -11229,7 +11174,7 @@
   },
   {
     "sequence_number": "0093",
-    "timestamp": 1080922902.0,
+    "timestamp": 1080921635.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -11388,7 +11333,7 @@
   },
   {
     "sequence_number": "0094",
-    "timestamp": 1080922902.0,
+    "timestamp": 1080921635.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -11545,7 +11490,7 @@
   },
   {
     "sequence_number": "0095",
-    "timestamp": 1080923122.0,
+    "timestamp": 1080922229.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -11710,7 +11655,7 @@
   },
   {
     "sequence_number": "0096",
-    "timestamp": 1080923122.0,
+    "timestamp": 1080922229.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -11873,7 +11818,7 @@
   },
   {
     "sequence_number": "0097",
-    "timestamp": 1080923490.0,
+    "timestamp": 1080922351.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -12002,7 +11947,7 @@
   },
   {
     "sequence_number": "0098",
-    "timestamp": 1080923490.0,
+    "timestamp": 1080922351.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12129,7 +12074,7 @@
   },
   {
     "sequence_number": "0099",
-    "timestamp": 1080923686.0,
+    "timestamp": 1080922903.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -12246,7 +12191,7 @@
   },
   {
     "sequence_number": "0100",
-    "timestamp": 1080923686.0,
+    "timestamp": 1080922903.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -12361,7 +12306,7 @@
   },
   {
     "sequence_number": "0101",
-    "timestamp": 1080924234.0,
+    "timestamp": 1080923377.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -12490,7 +12435,7 @@
   },
   {
     "sequence_number": "0102",
-    "timestamp": 1080924234.0,
+    "timestamp": 1080923377.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12617,7 +12562,7 @@
   },
   {
     "sequence_number": "0103",
-    "timestamp": 1080924644.0,
+    "timestamp": 1080923451.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -12746,7 +12691,7 @@
   },
   {
     "sequence_number": "0104",
-    "timestamp": 1080924644.0,
+    "timestamp": 1080923451.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12873,7 +12818,7 @@
   },
   {
     "sequence_number": "0105",
-    "timestamp": 1080925127.0,
+    "timestamp": 1080923586.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -13002,7 +12947,7 @@
   },
   {
     "sequence_number": "0106",
-    "timestamp": 1080925127.0,
+    "timestamp": 1080923586.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -13129,7 +13074,7 @@
   },
   {
     "sequence_number": "0107",
-    "timestamp": 1080925299.0,
+    "timestamp": 1080924179.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -13264,7 +13209,7 @@
   },
   {
     "sequence_number": "0108",
-    "timestamp": 1080925299.0,
+    "timestamp": 1080924179.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -13397,7 +13342,7 @@
   },
   {
     "sequence_number": "0109",
-    "timestamp": 1080925446.0,
+    "timestamp": 1080924595.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -13550,7 +13495,7 @@
   },
   {
     "sequence_number": "0110",
-    "timestamp": 1080925446.0,
+    "timestamp": 1080924595.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -13701,7 +13646,7 @@
   },
   {
     "sequence_number": "0111",
-    "timestamp": 1080925923.0,
+    "timestamp": 1080924992.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -13860,7 +13805,7 @@
   },
   {
     "sequence_number": "0112",
-    "timestamp": 1080925923.0,
+    "timestamp": 1080924992.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -14017,7 +13962,7 @@
   },
   {
     "sequence_number": "0113",
-    "timestamp": 1080926471.0,
+    "timestamp": 1080925348.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -14200,7 +14145,7 @@
   },
   {
     "sequence_number": "0114",
-    "timestamp": 1080926471.0,
+    "timestamp": 1080925348.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -14375,7 +14320,7 @@
   },
   {
     "sequence_number": "0115",
-    "timestamp": 1080927002.0,
+    "timestamp": 1080925447.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -14516,7 +14461,7 @@
   },
   {
     "sequence_number": "0116",
-    "timestamp": 1080927002.0,
+    "timestamp": 1080925447.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -14655,7 +14600,7 @@
   },
   {
     "sequence_number": "0117",
-    "timestamp": 1080927067.0,
+    "timestamp": 1080925951.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -14808,7 +14753,7 @@
   },
   {
     "sequence_number": "0118",
-    "timestamp": 1080927067.0,
+    "timestamp": 1080925951.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -14959,7 +14904,7 @@
   },
   {
     "sequence_number": "0119",
-    "timestamp": 1080927382.0,
+    "timestamp": 1080926131.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
@@ -15076,7 +15021,7 @@
   },
   {
     "sequence_number": "0120",
-    "timestamp": 1080927382.0,
+    "timestamp": 1080926131.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -15191,7 +15136,7 @@
   },
   {
     "sequence_number": "0121",
-    "timestamp": 1080927698.0,
+    "timestamp": 1080926364.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -15356,7 +15301,7 @@
   },
   {
     "sequence_number": "0122",
-    "timestamp": 1080927698.0,
+    "timestamp": 1080926364.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -15519,7 +15464,7 @@
   },
   {
     "sequence_number": "0123",
-    "timestamp": 1080928240.0,
+    "timestamp": 1080926626.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -15702,7 +15647,7 @@
   },
   {
     "sequence_number": "0124",
-    "timestamp": 1080928240.0,
+    "timestamp": 1080926626.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -15877,7 +15822,7 @@
   },
   {
     "sequence_number": "0125",
-    "timestamp": 1080928369.0,
+    "timestamp": 1080927106.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -16030,7 +15975,7 @@
   },
   {
     "sequence_number": "0126",
-    "timestamp": 1080928369.0,
+    "timestamp": 1080927106.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -16181,7 +16126,7 @@
   },
   {
     "sequence_number": "0127",
-    "timestamp": 1080928458.0,
+    "timestamp": 1080927580.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -16310,7 +16255,7 @@
   },
   {
     "sequence_number": "0128",
-    "timestamp": 1080928458.0,
+    "timestamp": 1080927580.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -16437,7 +16382,7 @@
   },
   {
     "sequence_number": "0129",
-    "timestamp": 1080928881.0,
+    "timestamp": 1080927829.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -16554,7 +16499,7 @@
   },
   {
     "sequence_number": "0130",
-    "timestamp": 1080928881.0,
+    "timestamp": 1080927829.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -16669,7 +16614,7 @@
   },
   {
     "sequence_number": "0131",
-    "timestamp": 1080928972.0,
+    "timestamp": 1080928075.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -16822,7 +16767,7 @@
   },
   {
     "sequence_number": "0132",
-    "timestamp": 1080928972.0,
+    "timestamp": 1080928075.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -16973,7 +16918,7 @@
   },
   {
     "sequence_number": "0133",
-    "timestamp": 1080929217.0,
+    "timestamp": 1080928607.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -17102,7 +17047,7 @@
   },
   {
     "sequence_number": "0134",
-    "timestamp": 1080929217.0,
+    "timestamp": 1080928607.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -17229,7 +17174,7 @@
   },
   {
     "sequence_number": "0135",
-    "timestamp": 1080929717.0,
+    "timestamp": 1080929006.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -17382,7 +17327,7 @@
   },
   {
     "sequence_number": "0136",
-    "timestamp": 1080929717.0,
+    "timestamp": 1080929006.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -17533,7 +17478,7 @@
   },
   {
     "sequence_number": "0137",
-    "timestamp": 1080930107.0,
+    "timestamp": 1080929528.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -17698,7 +17643,7 @@
   },
   {
     "sequence_number": "0138",
-    "timestamp": 1080930107.0,
+    "timestamp": 1080929528.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -17861,7 +17806,7 @@
   },
   {
     "sequence_number": "0139",
-    "timestamp": 1080930268.0,
+    "timestamp": 1080929909.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
@@ -17996,7 +17941,7 @@
   },
   {
     "sequence_number": "0140",
-    "timestamp": 1080930268.0,
+    "timestamp": 1080929909.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -18129,7 +18074,7 @@
   },
   {
     "sequence_number": "0141",
-    "timestamp": 1080930734.0,
+    "timestamp": 1080930423.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -18288,7 +18233,7 @@
   },
   {
     "sequence_number": "0142",
-    "timestamp": 1080930734.0,
+    "timestamp": 1080930423.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -18445,7 +18390,7 @@
   },
   {
     "sequence_number": "0143",
-    "timestamp": 1080930974.0,
+    "timestamp": 1080931001.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -18562,7 +18507,7 @@
   },
   {
     "sequence_number": "0144",
-    "timestamp": 1080930974.0,
+    "timestamp": 1080931001.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -18677,7 +18622,7 @@
   },
   {
     "sequence_number": "0145",
-    "timestamp": 1080931053.0,
+    "timestamp": 1080931198.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -18824,7 +18769,7 @@
   },
   {
     "sequence_number": "0146",
-    "timestamp": 1080931053.0,
+    "timestamp": 1080931198.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -18969,7 +18914,7 @@
   },
   {
     "sequence_number": "0147",
-    "timestamp": 1080931566.0,
+    "timestamp": 1080931348.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -19152,7 +19097,7 @@
   },
   {
     "sequence_number": "0148",
-    "timestamp": 1080931566.0,
+    "timestamp": 1080931348.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -19327,7 +19272,7 @@
   },
   {
     "sequence_number": "0149",
-    "timestamp": 1080931696.0,
+    "timestamp": 1080931768.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -19492,7 +19437,7 @@
   },
   {
     "sequence_number": "0150",
-    "timestamp": 1080931696.0,
+    "timestamp": 1080931768.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -19655,7 +19600,7 @@
   },
   {
     "sequence_number": "0151",
-    "timestamp": 1080931971.0,
+    "timestamp": 1080932297.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -19796,7 +19741,7 @@
   },
   {
     "sequence_number": "0152",
-    "timestamp": 1080931971.0,
+    "timestamp": 1080932297.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -19935,7 +19880,7 @@
   },
   {
     "sequence_number": "0153",
-    "timestamp": 1080932143.0,
+    "timestamp": 1080932388.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -20094,7 +20039,7 @@
   },
   {
     "sequence_number": "0154",
-    "timestamp": 1080932143.0,
+    "timestamp": 1080932388.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -20251,7 +20196,7 @@
   },
   {
     "sequence_number": "0155",
-    "timestamp": 1080932722.0,
+    "timestamp": 1080932756.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -20410,7 +20355,7 @@
   },
   {
     "sequence_number": "0156",
-    "timestamp": 1080932722.0,
+    "timestamp": 1080932756.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -20567,7 +20512,7 @@
   },
   {
     "sequence_number": "0157",
-    "timestamp": 1080933006.0,
+    "timestamp": 1080933293.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -20684,7 +20629,7 @@
   },
   {
     "sequence_number": "0158",
-    "timestamp": 1080933006.0,
+    "timestamp": 1080933293.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -20799,7 +20744,7 @@
   },
   {
     "sequence_number": "0159",
-    "timestamp": 1080933311.0,
+    "timestamp": 1080933612.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -20946,7 +20891,7 @@
   },
   {
     "sequence_number": "0160",
-    "timestamp": 1080933311.0,
+    "timestamp": 1080933612.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -21091,7 +21036,7 @@
   },
   {
     "sequence_number": "0161",
-    "timestamp": 1080933789.0,
+    "timestamp": 1080934186.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -21244,7 +21189,7 @@
   },
   {
     "sequence_number": "0162",
-    "timestamp": 1080933789.0,
+    "timestamp": 1080934186.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -21395,7 +21340,7 @@
   },
   {
     "sequence_number": "0163",
-    "timestamp": 1080934240.0,
+    "timestamp": 1080934395.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -21578,7 +21523,7 @@
   },
   {
     "sequence_number": "0164",
-    "timestamp": 1080934240.0,
+    "timestamp": 1080934395.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -21753,7 +21698,7 @@
   },
   {
     "sequence_number": "0165",
-    "timestamp": 1080934462.0,
+    "timestamp": 1080934475.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
@@ -21882,7 +21827,7 @@
   },
   {
     "sequence_number": "0166",
-    "timestamp": 1080934462.0,
+    "timestamp": 1080934475.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -22009,7 +21954,7 @@
   },
   {
     "sequence_number": "0167",
-    "timestamp": 1080935006.0,
+    "timestamp": 1080934588.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -22138,7 +22083,7 @@
   },
   {
     "sequence_number": "0168",
-    "timestamp": 1080935006.0,
+    "timestamp": 1080934588.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -22265,7 +22210,7 @@
   },
   {
     "sequence_number": "0169",
-    "timestamp": 1080935262.0,
+    "timestamp": 1080935101.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -22424,7 +22369,7 @@
   },
   {
     "sequence_number": "0170",
-    "timestamp": 1080935262.0,
+    "timestamp": 1080935101.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -22581,7 +22526,7 @@
   },
   {
     "sequence_number": "0171",
-    "timestamp": 1080935828.0,
+    "timestamp": 1080935691.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -22710,7 +22655,7 @@
   },
   {
     "sequence_number": "0172",
-    "timestamp": 1080935828.0,
+    "timestamp": 1080935691.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -22837,7 +22782,7 @@
   },
   {
     "sequence_number": "0173",
-    "timestamp": 1080936290.0,
+    "timestamp": 1080936045.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -23002,7 +22947,7 @@
   },
   {
     "sequence_number": "0174",
-    "timestamp": 1080936290.0,
+    "timestamp": 1080936045.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -23165,7 +23110,7 @@
   },
   {
     "sequence_number": "0175",
-    "timestamp": 1080936787.0,
+    "timestamp": 1080936639.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -23324,7 +23269,7 @@
   },
   {
     "sequence_number": "0176",
-    "timestamp": 1080936787.0,
+    "timestamp": 1080936639.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -23481,7 +23426,7 @@
   },
   {
     "sequence_number": "0177",
-    "timestamp": 1080937285.0,
+    "timestamp": 1080937097.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -23616,7 +23561,7 @@
   },
   {
     "sequence_number": "0178",
-    "timestamp": 1080937285.0,
+    "timestamp": 1080937097.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -23749,7 +23694,7 @@
   },
   {
     "sequence_number": "0179",
-    "timestamp": 1080937392.0,
+    "timestamp": 1080937636.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -23896,7 +23841,7 @@
   },
   {
     "sequence_number": "0180",
-    "timestamp": 1080937392.0,
+    "timestamp": 1080937636.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -24041,7 +23986,7 @@
   },
   {
     "sequence_number": "0181",
-    "timestamp": 1080937542.0,
+    "timestamp": 1080937702.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
@@ -24170,7 +24115,7 @@
   },
   {
     "sequence_number": "0182",
-    "timestamp": 1080937542.0,
+    "timestamp": 1080937702.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -24297,7 +24242,7 @@
   },
   {
     "sequence_number": "0183",
-    "timestamp": 1080937753.0,
+    "timestamp": 1080938005.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -24426,7 +24371,7 @@
   },
   {
     "sequence_number": "0184",
-    "timestamp": 1080937753.0,
+    "timestamp": 1080938005.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -24553,7 +24498,7 @@
   },
   {
     "sequence_number": "0185",
-    "timestamp": 1080937826.0,
+    "timestamp": 1080938184.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -24712,7 +24657,7 @@
   },
   {
     "sequence_number": "0186",
-    "timestamp": 1080937826.0,
+    "timestamp": 1080938184.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -24869,7 +24814,7 @@
   },
   {
     "sequence_number": "0187",
-    "timestamp": 1080938029.0,
+    "timestamp": 1080938525.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -24998,7 +24943,7 @@
   },
   {
     "sequence_number": "0188",
-    "timestamp": 1080938029.0,
+    "timestamp": 1080938525.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -25125,7 +25070,7 @@
   },
   {
     "sequence_number": "0189",
-    "timestamp": 1080938261.0,
+    "timestamp": 1080938752.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -25254,7 +25199,7 @@
   },
   {
     "sequence_number": "0190",
-    "timestamp": 1080938261.0,
+    "timestamp": 1080938752.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -25381,7 +25326,7 @@
   },
   {
     "sequence_number": "0191",
-    "timestamp": 1080938593.0,
+    "timestamp": 1080939301.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -25540,7 +25485,7 @@
   },
   {
     "sequence_number": "0192",
-    "timestamp": 1080938593.0,
+    "timestamp": 1080939301.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -25697,7 +25642,7 @@
   },
   {
     "sequence_number": "0193",
-    "timestamp": 1080938826.0,
+    "timestamp": 1080939526.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -25856,7 +25801,7 @@
   },
   {
     "sequence_number": "0194",
-    "timestamp": 1080938826.0,
+    "timestamp": 1080939526.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -26013,7 +25958,7 @@
   },
   {
     "sequence_number": "0195",
-    "timestamp": 1080939376.0,
+    "timestamp": 1080939984.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -26166,7 +26111,7 @@
   },
   {
     "sequence_number": "0196",
-    "timestamp": 1080939376.0,
+    "timestamp": 1080939984.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -26317,7 +26262,7 @@
   },
   {
     "sequence_number": "0197",
-    "timestamp": 1080939462.0,
+    "timestamp": 1080940396.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -26446,7 +26391,7 @@
   },
   {
     "sequence_number": "0198",
-    "timestamp": 1080939462.0,
+    "timestamp": 1080940396.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -26573,7 +26518,7 @@
   },
   {
     "sequence_number": "0199",
-    "timestamp": 1080940029.0,
+    "timestamp": 1080940958.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -26720,7 +26665,7 @@
   },
   {
     "sequence_number": "0200",
-    "timestamp": 1080940029.0,
+    "timestamp": 1080940958.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -26865,7 +26810,7 @@
   },
   {
     "sequence_number": "0201",
-    "timestamp": 1080940249.0,
+    "timestamp": 1080941109.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -27006,7 +26951,7 @@
   },
   {
     "sequence_number": "0202",
-    "timestamp": 1080940249.0,
+    "timestamp": 1080941109.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -27145,7 +27090,7 @@
   },
   {
     "sequence_number": "0203",
-    "timestamp": 1080940335.0,
+    "timestamp": 1080941181.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -27310,7 +27255,7 @@
   },
   {
     "sequence_number": "0204",
-    "timestamp": 1080940335.0,
+    "timestamp": 1080941181.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -27473,7 +27418,7 @@
   },
   {
     "sequence_number": "0205",
-    "timestamp": 1080940828.0,
+    "timestamp": 1080941289.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -27620,7 +27565,7 @@
   },
   {
     "sequence_number": "0206",
-    "timestamp": 1080940828.0,
+    "timestamp": 1080941289.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -27765,7 +27710,7 @@
   },
   {
     "sequence_number": "0207",
-    "timestamp": 1080941229.0,
+    "timestamp": 1080941875.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -27894,7 +27839,7 @@
   },
   {
     "sequence_number": "0208",
-    "timestamp": 1080941229.0,
+    "timestamp": 1080941875.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -28039,7 +27984,7 @@
   },
   {
     "sequence_number": "0209",
-    "timestamp": 1080941229.0,
+    "timestamp": 1080941875.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -28175,7 +28120,7 @@
   },
   {
     "sequence_number": "0210",
-    "timestamp": 1080941229.0,
+    "timestamp": 1080941875.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -28311,7 +28256,7 @@
   },
   {
     "sequence_number": "0211",
-    "timestamp": 1080941229.0,
+    "timestamp": 1080941875.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -28466,65 +28411,16 @@
   },
   {
     "sequence_number": "0212",
-    "timestamp": 1080941229.0,
+    "timestamp": 1080941875.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
-    "by_candidate": [
-      {
-        "candidate_name": "W.J.M. Lokubandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Lakshman Seneviratne",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ravindra Samaraweera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Upali  Deltan Samaraweera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Karuppaiah Velayudham",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nilenti Nimal Siripala de Silva",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Appuhami Ralalage Madduma bandara Sathapenage",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "D.D.W. Wickramarathna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0213",
-    "timestamp": 1080941730.0,
+    "timestamp": 1080942089.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -28689,7 +28585,7 @@
   },
   {
     "sequence_number": "0214",
-    "timestamp": 1080941730.0,
+    "timestamp": 1080942089.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -28852,7 +28748,7 @@
   },
   {
     "sequence_number": "0215",
-    "timestamp": 1080942000.0,
+    "timestamp": 1080942577.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -29005,7 +28901,7 @@
   },
   {
     "sequence_number": "0216",
-    "timestamp": 1080942000.0,
+    "timestamp": 1080942577.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -29156,7 +29052,7 @@
   },
   {
     "sequence_number": "0217",
-    "timestamp": 1080942204.0,
+    "timestamp": 1080942844.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -29315,7 +29211,7 @@
   },
   {
     "sequence_number": "0218",
-    "timestamp": 1080942204.0,
+    "timestamp": 1080942844.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -29472,7 +29368,7 @@
   },
   {
     "sequence_number": "0219",
-    "timestamp": 1080942505.0,
+    "timestamp": 1080942948.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -29655,7 +29551,7 @@
   },
   {
     "sequence_number": "0220",
-    "timestamp": 1080942505.0,
+    "timestamp": 1080942948.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -29830,7 +29726,7 @@
   },
   {
     "sequence_number": "0221",
-    "timestamp": 1080942590.0,
+    "timestamp": 1080943259.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -29947,7 +29843,7 @@
   },
   {
     "sequence_number": "0222",
-    "timestamp": 1080942590.0,
+    "timestamp": 1080943259.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -30062,7 +29958,7 @@
   },
   {
     "sequence_number": "0223",
-    "timestamp": 1080942748.0,
+    "timestamp": 1080943437.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -30227,7 +30123,7 @@
   },
   {
     "sequence_number": "0224",
-    "timestamp": 1080942748.0,
+    "timestamp": 1080943437.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -30390,7 +30286,7 @@
   },
   {
     "sequence_number": "0225",
-    "timestamp": 1080943123.0,
+    "timestamp": 1080943761.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -30507,7 +30403,7 @@
   },
   {
     "sequence_number": "0226",
-    "timestamp": 1080943123.0,
+    "timestamp": 1080943761.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -30622,7 +30518,7 @@
   },
   {
     "sequence_number": "0227",
-    "timestamp": 1080943596.0,
+    "timestamp": 1080944328.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -30751,7 +30647,7 @@
   },
   {
     "sequence_number": "0228",
-    "timestamp": 1080943596.0,
+    "timestamp": 1080944328.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -30878,7 +30774,7 @@
   },
   {
     "sequence_number": "0229",
-    "timestamp": 1080943681.0,
+    "timestamp": 1080944904.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -31043,7 +30939,7 @@
   },
   {
     "sequence_number": "0230",
-    "timestamp": 1080943681.0,
+    "timestamp": 1080944904.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -31206,7 +31102,7 @@
   },
   {
     "sequence_number": "0231",
-    "timestamp": 1080943809.0,
+    "timestamp": 1080945368.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -31371,7 +31267,7 @@
   },
   {
     "sequence_number": "0232",
-    "timestamp": 1080943809.0,
+    "timestamp": 1080945368.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -31534,7 +31430,7 @@
   },
   {
     "sequence_number": "0233",
-    "timestamp": 1080944205.0,
+    "timestamp": 1080945643.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -31693,7 +31589,7 @@
   },
   {
     "sequence_number": "0234",
-    "timestamp": 1080944205.0,
+    "timestamp": 1080945643.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -31850,7 +31746,7 @@
   },
   {
     "sequence_number": "0235",
-    "timestamp": 1080944354.0,
+    "timestamp": 1080945831.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -32009,7 +31905,7 @@
   },
   {
     "sequence_number": "0236",
-    "timestamp": 1080944354.0,
+    "timestamp": 1080945831.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -32166,7 +32062,7 @@
   },
   {
     "sequence_number": "0237",
-    "timestamp": 1080944448.0,
+    "timestamp": 1080946178.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -32313,7 +32209,7 @@
   },
   {
     "sequence_number": "0238",
-    "timestamp": 1080944448.0,
+    "timestamp": 1080946178.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -32458,7 +32354,7 @@
   },
   {
     "sequence_number": "0239",
-    "timestamp": 1080944615.0,
+    "timestamp": 1080946623.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
@@ -32593,7 +32489,7 @@
   },
   {
     "sequence_number": "0240",
-    "timestamp": 1080944615.0,
+    "timestamp": 1080946623.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -32745,7 +32641,7 @@
   },
   {
     "sequence_number": "0241",
-    "timestamp": 1080944615.0,
+    "timestamp": 1080946623.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -32888,7 +32784,7 @@
   },
   {
     "sequence_number": "0242",
-    "timestamp": 1080944615.0,
+    "timestamp": 1080946623.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -33031,7 +32927,7 @@
   },
   {
     "sequence_number": "0243",
-    "timestamp": 1080944615.0,
+    "timestamp": 1080946623.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -33207,53 +33103,16 @@
   },
   {
     "sequence_number": "0244",
-    "timestamp": 1080944615.0,
+    "timestamp": 1080946623.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
-    "by_candidate": [
-      {
-        "candidate_name": "Adaikalanathan amirtanadan",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Irasa kuganesvaran",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nadesu Sivasakthy Anandan",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Noordeen Mashoor",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Rishard Badhiutheen",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tarumalingam sittartan",
-        "party_name": "Democrats People's Liberation Front",
-        "party_code": "DPLF",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0245",
-    "timestamp": 1080945199.0,
+    "timestamp": 1080947047.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
@@ -33388,7 +33247,7 @@
   },
   {
     "sequence_number": "0246",
-    "timestamp": 1080945199.0,
+    "timestamp": 1080947047.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -33521,7 +33380,7 @@
   },
   {
     "sequence_number": "0247",
-    "timestamp": 1080945361.0,
+    "timestamp": 1080947425.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -33650,7 +33509,7 @@
   },
   {
     "sequence_number": "0248",
-    "timestamp": 1080945361.0,
+    "timestamp": 1080947425.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -33777,7 +33636,7 @@
   },
   {
     "sequence_number": "0249",
-    "timestamp": 1080945443.0,
+    "timestamp": 1080947805.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -33960,7 +33819,7 @@
   },
   {
     "sequence_number": "0250",
-    "timestamp": 1080945443.0,
+    "timestamp": 1080947805.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -34135,7 +33994,7 @@
   },
   {
     "sequence_number": "0251",
-    "timestamp": 1080945708.0,
+    "timestamp": 1080948067.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -34264,7 +34123,7 @@
   },
   {
     "sequence_number": "0252",
-    "timestamp": 1080945708.0,
+    "timestamp": 1080948067.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -34391,7 +34250,7 @@
   },
   {
     "sequence_number": "0253",
-    "timestamp": 1080945877.0,
+    "timestamp": 1080948473.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -34550,7 +34409,7 @@
   },
   {
     "sequence_number": "0254",
-    "timestamp": 1080945877.0,
+    "timestamp": 1080948473.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -34737,7 +34596,7 @@
   },
   {
     "sequence_number": "0255",
-    "timestamp": 1080945877.0,
+    "timestamp": 1080948473.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -34915,7 +34774,7 @@
   },
   {
     "sequence_number": "0256",
-    "timestamp": 1080945877.0,
+    "timestamp": 1080948473.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -35093,7 +34952,7 @@
   },
   {
     "sequence_number": "0257",
-    "timestamp": 1080945877.0,
+    "timestamp": 1080948473.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -35304,71 +35163,16 @@
   },
   {
     "sequence_number": "0258",
-    "timestamp": 1080945877.0,
+    "timestamp": 1080948473.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
-    "by_candidate": [
-      {
-        "candidate_name": "Rukman Senanayaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ambathanna devayalage Premadasa Champika ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kabeer Hashim",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Herath Ralalage Jayatileke Podinilame",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Arachchige Don Sirisena Rupasinghe",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mahipala Herath",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Athauda Senewirathna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ranjith Siyambalapitiya",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0259",
-    "timestamp": 1080945968.0,
+    "timestamp": 1080949052.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -35497,7 +35301,7 @@
   },
   {
     "sequence_number": "0260",
-    "timestamp": 1080945968.0,
+    "timestamp": 1080949052.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -35624,7 +35428,7 @@
   },
   {
     "sequence_number": "0261",
-    "timestamp": 1080946113.0,
+    "timestamp": 1080949445.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -35783,7 +35587,7 @@
   },
   {
     "sequence_number": "0262",
-    "timestamp": 1080946113.0,
+    "timestamp": 1080949445.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -35940,7 +35744,7 @@
   },
   {
     "sequence_number": "0263",
-    "timestamp": 1080946436.0,
+    "timestamp": 1080949973.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -36099,7 +35903,7 @@
   },
   {
     "sequence_number": "0264",
-    "timestamp": 1080946436.0,
+    "timestamp": 1080949973.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -36256,7 +36060,7 @@
   },
   {
     "sequence_number": "0265",
-    "timestamp": 1080946877.0,
+    "timestamp": 1080950474.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -36385,7 +36189,7 @@
   },
   {
     "sequence_number": "0266",
-    "timestamp": 1080946877.0,
+    "timestamp": 1080950474.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -36512,7 +36316,7 @@
   },
   {
     "sequence_number": "0267",
-    "timestamp": 1080947154.0,
+    "timestamp": 1080950652.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -36671,7 +36475,7 @@
   },
   {
     "sequence_number": "0268",
-    "timestamp": 1080947154.0,
+    "timestamp": 1080950652.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -36828,7 +36632,7 @@
   },
   {
     "sequence_number": "0269",
-    "timestamp": 1080947688.0,
+    "timestamp": 1080950913.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -36963,7 +36767,7 @@
   },
   {
     "sequence_number": "0270",
-    "timestamp": 1080947688.0,
+    "timestamp": 1080950913.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -37096,7 +36900,7 @@
   },
   {
     "sequence_number": "0271",
-    "timestamp": 1080948167.0,
+    "timestamp": 1080951014.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -37225,7 +37029,7 @@
   },
   {
     "sequence_number": "0272",
-    "timestamp": 1080948167.0,
+    "timestamp": 1080951014.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -37370,7 +37174,7 @@
   },
   {
     "sequence_number": "0273",
-    "timestamp": 1080948167.0,
+    "timestamp": 1080951014.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -37506,7 +37310,7 @@
   },
   {
     "sequence_number": "0274",
-    "timestamp": 1080948167.0,
+    "timestamp": 1080951014.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -37642,7 +37446,7 @@
   },
   {
     "sequence_number": "0275",
-    "timestamp": 1080948167.0,
+    "timestamp": 1080951014.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -37853,65 +37657,16 @@
   },
   {
     "sequence_number": "0276",
-    "timestamp": 1080948167.0,
+    "timestamp": 1080951014.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
-    "by_candidate": [
-      {
-        "candidate_name": "Mahinda Wijesekera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywardena Yapa  Lakshman ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Justin Galappaththi",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sagala Gajendra Ratnayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mangala Pinsiri Samaraweera ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywardena Yapa Mahinda ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "de Mel Mallika Lakshmi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jinadasa kitulagoda",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0277",
-    "timestamp": 1080948713.0,
+    "timestamp": 1080951421.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -38076,7 +37831,7 @@
   },
   {
     "sequence_number": "0278",
-    "timestamp": 1080948713.0,
+    "timestamp": 1080951421.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -38239,7 +37994,7 @@
   },
   {
     "sequence_number": "0279",
-    "timestamp": 1080949278.0,
+    "timestamp": 1080951494.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -38386,7 +38141,7 @@
   },
   {
     "sequence_number": "0280",
-    "timestamp": 1080949278.0,
+    "timestamp": 1080951494.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -38531,7 +38286,7 @@
   },
   {
     "sequence_number": "0281",
-    "timestamp": 1080949598.0,
+    "timestamp": 1080951573.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -38696,7 +38451,7 @@
   },
   {
     "sequence_number": "0282",
-    "timestamp": 1080949598.0,
+    "timestamp": 1080951573.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -38859,7 +38614,7 @@
   },
   {
     "sequence_number": "0283",
-    "timestamp": 1080949821.0,
+    "timestamp": 1080951804.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -38994,7 +38749,7 @@
   },
   {
     "sequence_number": "0284",
-    "timestamp": 1080949821.0,
+    "timestamp": 1080951804.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -39127,7 +38882,7 @@
   },
   {
     "sequence_number": "0285",
-    "timestamp": 1080950246.0,
+    "timestamp": 1080952369.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
@@ -39280,7 +39035,7 @@
   },
   {
     "sequence_number": "0286",
-    "timestamp": 1080950246.0,
+    "timestamp": 1080952369.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -39431,7 +39186,7 @@
   },
   {
     "sequence_number": "0287",
-    "timestamp": 1080950422.0,
+    "timestamp": 1080952502.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -39596,7 +39351,7 @@
   },
   {
     "sequence_number": "0288",
-    "timestamp": 1080950422.0,
+    "timestamp": 1080952502.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -39759,7 +39514,7 @@
   },
   {
     "sequence_number": "0289",
-    "timestamp": 1080950757.0,
+    "timestamp": 1080952616.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -39918,7 +39673,7 @@
   },
   {
     "sequence_number": "0290",
-    "timestamp": 1080950757.0,
+    "timestamp": 1080952616.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -40075,7 +39830,7 @@
   },
   {
     "sequence_number": "0291",
-    "timestamp": 1080950943.0,
+    "timestamp": 1080952950.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -40210,7 +39965,7 @@
   },
   {
     "sequence_number": "0292",
-    "timestamp": 1080950943.0,
+    "timestamp": 1080952950.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -40343,7 +40098,7 @@
   },
   {
     "sequence_number": "0293",
-    "timestamp": 1080951053.0,
+    "timestamp": 1080953251.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -40508,7 +40263,7 @@
   },
   {
     "sequence_number": "0294",
-    "timestamp": 1080951053.0,
+    "timestamp": 1080953251.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -40671,7 +40426,7 @@
   },
   {
     "sequence_number": "0295",
-    "timestamp": 1080951498.0,
+    "timestamp": 1080953341.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -40818,7 +40573,7 @@
   },
   {
     "sequence_number": "0296",
-    "timestamp": 1080951498.0,
+    "timestamp": 1080953341.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -40963,7 +40718,7 @@
   },
   {
     "sequence_number": "0297",
-    "timestamp": 1080951793.0,
+    "timestamp": 1080953509.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -41098,7 +40853,7 @@
   },
   {
     "sequence_number": "0298",
-    "timestamp": 1080951793.0,
+    "timestamp": 1080953509.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -41231,7 +40986,7 @@
   },
   {
     "sequence_number": "0299",
-    "timestamp": 1080952238.0,
+    "timestamp": 1080953743.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -41384,7 +41139,7 @@
   },
   {
     "sequence_number": "0300",
-    "timestamp": 1080952238.0,
+    "timestamp": 1080953743.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -41535,7 +41290,7 @@
   },
   {
     "sequence_number": "0301",
-    "timestamp": 1080952609.0,
+    "timestamp": 1080954147.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -41694,7 +41449,7 @@
   },
   {
     "sequence_number": "0302",
-    "timestamp": 1080952609.0,
+    "timestamp": 1080954147.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -41874,7 +41629,7 @@
   },
   {
     "sequence_number": "0303",
-    "timestamp": 1080952609.0,
+    "timestamp": 1080954147.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -42045,7 +41800,7 @@
   },
   {
     "sequence_number": "0304",
-    "timestamp": 1080952609.0,
+    "timestamp": 1080954147.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -42216,7 +41971,7 @@
   },
   {
     "sequence_number": "0305",
-    "timestamp": 1080952609.0,
+    "timestamp": 1080954147.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -42434,59 +42189,16 @@
   },
   {
     "sequence_number": "0306",
-    "timestamp": 1080952609.0,
+    "timestamp": 1080954147.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
-    "by_candidate": [
-      {
-        "candidate_name": "Palitha Range Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamamadaliyanage Joseph Lalith Niyomal Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mary Larrin Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Warnakulasooriya manikkuge Anton Sugath Thisera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "D.M. Dissanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Milroy Fernando",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anton Dayasritha Perera ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0307",
-    "timestamp": 1080952804.0,
+    "timestamp": 1080954344.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
@@ -42603,7 +42315,7 @@
   },
   {
     "sequence_number": "0308",
-    "timestamp": 1080952804.0,
+    "timestamp": 1080954344.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -42718,7 +42430,7 @@
   },
   {
     "sequence_number": "0309",
-    "timestamp": 1080953400.0,
+    "timestamp": 1080954545.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -42871,7 +42583,7 @@
   },
   {
     "sequence_number": "0310",
-    "timestamp": 1080953400.0,
+    "timestamp": 1080954545.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -43022,7 +42734,7 @@
   },
   {
     "sequence_number": "0311",
-    "timestamp": 1080953908.0,
+    "timestamp": 1080955077.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -43181,7 +42893,7 @@
   },
   {
     "sequence_number": "0312",
-    "timestamp": 1080953908.0,
+    "timestamp": 1080955077.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -43338,7 +43050,7 @@
   },
   {
     "sequence_number": "0313",
-    "timestamp": 1080954318.0,
+    "timestamp": 1080955618.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -43503,7 +43215,7 @@
   },
   {
     "sequence_number": "0314",
-    "timestamp": 1080954318.0,
+    "timestamp": 1080955618.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -43690,7 +43402,7 @@
   },
   {
     "sequence_number": "0315",
-    "timestamp": 1080954318.0,
+    "timestamp": 1080955618.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -43868,7 +43580,7 @@
   },
   {
     "sequence_number": "0316",
-    "timestamp": 1080954318.0,
+    "timestamp": 1080955618.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -44046,7 +43758,7 @@
   },
   {
     "sequence_number": "0317",
-    "timestamp": 1080954318.0,
+    "timestamp": 1080955618.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -44264,107 +43976,16 @@
   },
   {
     "sequence_number": "0318",
-    "timestamp": 1080954318.0,
+    "timestamp": 1080955618.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
-    "by_candidate": [
-      {
-        "candidate_name": "Gamini Jayawickrama",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Johnston Xavier Fernando",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Indika Bandaranayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rohitha Bogollagama",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dissanayake Mudiyanselage Bandaranayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "A. Upali piyasoma",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amara Piyaseeli Ratnayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anura Gopallawa",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "S. B. Navinna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Salinda Dissanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anura Priyadarshana Yapa",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jayarathna Herath",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "T.B. Ekanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "S. Kumari Tennakoon",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bimal Niroshan Ratnayake Weerakone",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0319",
-    "timestamp": 1080954499.0,
+    "timestamp": 1080955870.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
@@ -44481,7 +44102,7 @@
   },
   {
     "sequence_number": "0320",
-    "timestamp": 1080954499.0,
+    "timestamp": 1080955870.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -44612,7 +44233,7 @@
   },
   {
     "sequence_number": "0321",
-    "timestamp": 1080954499.0,
+    "timestamp": 1080955870.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -44734,7 +44355,7 @@
   },
   {
     "sequence_number": "0322",
-    "timestamp": 1080954499.0,
+    "timestamp": 1080955870.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -44856,7 +44477,7 @@
   },
   {
     "sequence_number": "0323",
-    "timestamp": 1080954499.0,
+    "timestamp": 1080955870.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -45074,41 +44695,16 @@
   },
   {
     "sequence_number": "0324",
-    "timestamp": 1080954499.0,
+    "timestamp": 1080955870.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
-    "by_candidate": [
-      {
-        "candidate_name": "Abdulla Mohamed Maharoof Mohamed  ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "kabib Mohammed Taufiq",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Irajavarodayam Sampanthan",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Appuhamilage Don Somadasa Gunawardena Munasinghe Kariyawasam",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0325",
-    "timestamp": 1080954587.0,
+    "timestamp": 1080956391.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -45255,7 +44851,7 @@
   },
   {
     "sequence_number": "0326",
-    "timestamp": 1080954587.0,
+    "timestamp": 1080956391.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -45421,7 +45017,7 @@
   },
   {
     "sequence_number": "0327",
-    "timestamp": 1080954587.0,
+    "timestamp": 1080956391.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -45578,7 +45174,7 @@
   },
   {
     "sequence_number": "0328",
-    "timestamp": 1080954587.0,
+    "timestamp": 1080956391.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -45735,7 +45331,7 @@
   },
   {
     "sequence_number": "0329",
-    "timestamp": 1080954587.0,
+    "timestamp": 1080956391.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -45953,77 +45549,16 @@
   },
   {
     "sequence_number": "0330",
-    "timestamp": 1080954587.0,
+    "timestamp": 1080956391.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
-    "by_candidate": [
-      {
-        "candidate_name": "Abeywardena Vajira ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Hemakumara Wickramatilake Nanayakkara ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gayantha Karunathilaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywickrema Ananda Jayantha",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jayantha Jayaweera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amarasiri Dodangoda",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Richard Pathirana",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ihala Madagama Gamage Piyasena ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Baddegama Samitha Thero",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Athula Indika Weerakoon",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0331",
-    "timestamp": 1080954967.0,
+    "timestamp": 1080956515.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -46182,7 +45717,7 @@
   },
   {
     "sequence_number": "0332",
-    "timestamp": 1080954967.0,
+    "timestamp": 1080956515.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -46339,7 +45874,7 @@
   },
   {
     "sequence_number": "0333",
-    "timestamp": 1080955413.0,
+    "timestamp": 1080956664.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -46498,7 +46033,7 @@
   },
   {
     "sequence_number": "0334",
-    "timestamp": 1080955413.0,
+    "timestamp": 1080956664.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -46655,7 +46190,7 @@
   },
   {
     "sequence_number": "0335",
-    "timestamp": 1080955932.0,
+    "timestamp": 1080957256.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
@@ -46808,7 +46343,7 @@
   },
   {
     "sequence_number": "0336",
-    "timestamp": 1080955932.0,
+    "timestamp": 1080957256.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -46959,7 +46494,7 @@
   },
   {
     "sequence_number": "0337",
-    "timestamp": 1080956261.0,
+    "timestamp": 1080957335.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -47112,7 +46647,7 @@
   },
   {
     "sequence_number": "0338",
-    "timestamp": 1080956261.0,
+    "timestamp": 1080957335.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -47263,7 +46798,7 @@
   },
   {
     "sequence_number": "0339",
-    "timestamp": 1080956519.0,
+    "timestamp": 1080957591.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -47380,7 +46915,7 @@
   },
   {
     "sequence_number": "0340",
-    "timestamp": 1080956519.0,
+    "timestamp": 1080957591.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -47511,7 +47046,7 @@
   },
   {
     "sequence_number": "0341",
-    "timestamp": 1080956519.0,
+    "timestamp": 1080957591.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -47633,7 +47168,7 @@
   },
   {
     "sequence_number": "0342",
-    "timestamp": 1080956519.0,
+    "timestamp": 1080957591.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -47755,7 +47290,7 @@
   },
   {
     "sequence_number": "0343",
-    "timestamp": 1080956519.0,
+    "timestamp": 1080957591.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -47973,65 +47508,16 @@
   },
   {
     "sequence_number": "0344",
-    "timestamp": 1080956519.0,
+    "timestamp": 1080957591.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
-    "by_candidate": [
-      {
-        "candidate_name": "P. Harrison",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chandrani Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ekanayake Wilfred Bandara ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Lal Dharmapriya Gamage ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Duminda Dissanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Samarakone Mudiyanselage Chandrasena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tissa Wijeratne Karaliyadde",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kuragamage Don Lal Kantha",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0345",
-    "timestamp": 1080956924.0,
+    "timestamp": 1080958160.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -48190,7 +47676,7 @@
   },
   {
     "sequence_number": "0346",
-    "timestamp": 1080956924.0,
+    "timestamp": 1080958160.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -48347,7 +47833,7 @@
   },
   {
     "sequence_number": "0347",
-    "timestamp": 1080957124.0,
+    "timestamp": 1080958344.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -48476,7 +47962,7 @@
   },
   {
     "sequence_number": "0348",
-    "timestamp": 1080957124.0,
+    "timestamp": 1080958344.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -48603,7 +48089,7 @@
   },
   {
     "sequence_number": "0349",
-    "timestamp": 1080957608.0,
+    "timestamp": 1080958446.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -48786,7 +48272,7 @@
   },
   {
     "sequence_number": "0350",
-    "timestamp": 1080957608.0,
+    "timestamp": 1080958446.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -48961,7 +48447,7 @@
   },
   {
     "sequence_number": "0351",
-    "timestamp": 1080958142.0,
+    "timestamp": 1080958789.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -49102,7 +48588,7 @@
   },
   {
     "sequence_number": "0352",
-    "timestamp": 1080958142.0,
+    "timestamp": 1080958789.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -49261,7 +48747,7 @@
   },
   {
     "sequence_number": "0353",
-    "timestamp": 1080958142.0,
+    "timestamp": 1080958789.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -49411,7 +48897,7 @@
   },
   {
     "sequence_number": "0354",
-    "timestamp": 1080958142.0,
+    "timestamp": 1080958789.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -49561,7 +49047,7 @@
   },
   {
     "sequence_number": "0355",
-    "timestamp": 1080958142.0,
+    "timestamp": 1080958789.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -49786,47 +49272,16 @@
   },
   {
     "sequence_number": "0356",
-    "timestamp": 1080958142.0,
+    "timestamp": 1080958789.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
-    "by_candidate": [
-      {
-        "candidate_name": "Aluvihare Alick ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aluvihare Ranjith ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rasnayaka Mudiyanselage Sanjeewa Bandara Kavirathna",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Janaka Bandara Thannakoon",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "S.B. Bandula Yalegama",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0357",
-    "timestamp": 1080958697.0,
+    "timestamp": 1080959122.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -49979,7 +49434,7 @@
   },
   {
     "sequence_number": "0358",
-    "timestamp": 1080958697.0,
+    "timestamp": 1080959122.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -50130,7 +49585,7 @@
   },
   {
     "sequence_number": "0359",
-    "timestamp": 1080959140.0,
+    "timestamp": 1080959283.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -50283,7 +49738,7 @@
   },
   {
     "sequence_number": "0360",
-    "timestamp": 1080959140.0,
+    "timestamp": 1080959283.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -50434,7 +49889,7 @@
   },
   {
     "sequence_number": "0361",
-    "timestamp": 1080959599.0,
+    "timestamp": 1080959551.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -50569,7 +50024,7 @@
   },
   {
     "sequence_number": "0362",
-    "timestamp": 1080959599.0,
+    "timestamp": 1080959551.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -50702,7 +50157,7 @@
   },
   {
     "sequence_number": "0363",
-    "timestamp": 1080959819.0,
+    "timestamp": 1080959892.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -50855,7 +50310,7 @@
   },
   {
     "sequence_number": "0364",
-    "timestamp": 1080959819.0,
+    "timestamp": 1080959892.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -51006,7 +50461,7 @@
   },
   {
     "sequence_number": "0365",
-    "timestamp": 1080959929.0,
+    "timestamp": 1080960461.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -51165,7 +50620,7 @@
   },
   {
     "sequence_number": "0366",
-    "timestamp": 1080959929.0,
+    "timestamp": 1080960461.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -51322,7 +50777,7 @@
   },
   {
     "sequence_number": "0367",
-    "timestamp": 1080960129.0,
+    "timestamp": 1080960907.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -51505,7 +50960,7 @@
   },
   {
     "sequence_number": "0368",
-    "timestamp": 1080960129.0,
+    "timestamp": 1080960907.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -51680,7 +51135,7 @@
   },
   {
     "sequence_number": "0369",
-    "timestamp": 1080960711.0,
+    "timestamp": 1080961041.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -51833,7 +51288,7 @@
   },
   {
     "sequence_number": "0370",
-    "timestamp": 1080960711.0,
+    "timestamp": 1080961041.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -52006,7 +51461,7 @@
   },
   {
     "sequence_number": "0371",
-    "timestamp": 1080960711.0,
+    "timestamp": 1080961041.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -52170,7 +51625,7 @@
   },
   {
     "sequence_number": "0372",
-    "timestamp": 1080960711.0,
+    "timestamp": 1080961041.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -52334,7 +51789,7 @@
   },
   {
     "sequence_number": "0373",
-    "timestamp": 1080960711.0,
+    "timestamp": 1080961041.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -52566,77 +52021,16 @@
   },
   {
     "sequence_number": "0374",
-    "timestamp": 1080960711.0,
+    "timestamp": 1080961041.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
-    "by_candidate": [
-      {
-        "candidate_name": "Mahinda Buddhadasa Samarasinghe",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajitha Senaratne",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Bakeer Markar Imtiaz",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeyrathna Pathirage Don",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ananda Lakshman Wijemanne",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ratnasiri Wickremanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kumara Welgama",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tyudar Dayarathna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeygunawardena Rohitha ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "M.D. Nandana Gunathilaka",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0375",
-    "timestamp": 1080961300.0,
+    "timestamp": 1080961447.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -52795,7 +52189,7 @@
   },
   {
     "sequence_number": "0376",
-    "timestamp": 1080961300.0,
+    "timestamp": 1080961447.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -52952,7 +52346,7 @@
   },
   {
     "sequence_number": "0377",
-    "timestamp": 1080961671.0,
+    "timestamp": 1080961809.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -53111,7 +52505,7 @@
   },
   {
     "sequence_number": "0378",
-    "timestamp": 1080961671.0,
+    "timestamp": 1080961809.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -53268,7 +52662,7 @@
   },
   {
     "sequence_number": "0379",
-    "timestamp": 1080961777.0,
+    "timestamp": 1080962033.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -53403,7 +52797,7 @@
   },
   {
     "sequence_number": "0380",
-    "timestamp": 1080961777.0,
+    "timestamp": 1080962033.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -53555,7 +52949,7 @@
   },
   {
     "sequence_number": "0381",
-    "timestamp": 1080961777.0,
+    "timestamp": 1080962033.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -53698,7 +53092,7 @@
   },
   {
     "sequence_number": "0382",
-    "timestamp": 1080961777.0,
+    "timestamp": 1080962033.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -53841,7 +53235,7 @@
   },
   {
     "sequence_number": "0383",
-    "timestamp": 1080961777.0,
+    "timestamp": 1080962033.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -54073,77 +53467,16 @@
   },
   {
     "sequence_number": "0384",
-    "timestamp": 1080961777.0,
+    "timestamp": 1080962033.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
-    "by_candidate": [
-      {
-        "candidate_name": "Gamini Athukorala",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Susantha Galgamuwa Punchinilame",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ihalek Kankanamalage Mahinda Rathnathilaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeysinghe Arachilage Wijethunga",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeynayaka Piyadasa",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aarachchige Pawithra Wanniarachchi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Halkadaliya Lekamlage Premalal Jayasekara",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "John Seneviratne",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Asoka Jayawardena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Achala Suranga Mabotuvana Jagodage",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0385",
-    "timestamp": 1080961923.0,
+    "timestamp": 1080962314.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -54302,7 +53635,7 @@
   },
   {
     "sequence_number": "0386",
-    "timestamp": 1080961923.0,
+    "timestamp": 1080962314.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -54459,7 +53792,7 @@
   },
   {
     "sequence_number": "0387",
-    "timestamp": 1080962487.0,
+    "timestamp": 1080962499.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
@@ -54594,7 +53927,7 @@
   },
   {
     "sequence_number": "0388",
-    "timestamp": 1080962487.0,
+    "timestamp": 1080962499.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -54746,7 +54079,7 @@
   },
   {
     "sequence_number": "0389",
-    "timestamp": 1080962487.0,
+    "timestamp": 1080962499.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -54889,7 +54222,7 @@
   },
   {
     "sequence_number": "0390",
-    "timestamp": 1080962487.0,
+    "timestamp": 1080962499.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -55032,7 +54365,7 @@
   },
   {
     "sequence_number": "0391",
-    "timestamp": 1080962487.0,
+    "timestamp": 1080962499.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -55264,47 +54597,16 @@
   },
   {
     "sequence_number": "0392",
-    "timestamp": 1080962487.0,
+    "timestamp": 1080962499.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
-    "by_candidate": [
-      {
-        "candidate_name": "Arukattu Patabendige Jagath Pushpakumara",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sumedha G. Jayasena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamini Vijith Vijayamuni Soysa",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rathnayaka Mudiyanselage Ranjith Madduma Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ananda Kumarasiri Jayasundara Mudiyanselage",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0393",
-    "timestamp": 1080962799.0,
+    "timestamp": 1080962599.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
@@ -55433,7 +54735,7 @@
   },
   {
     "sequence_number": "0394",
-    "timestamp": 1080962799.0,
+    "timestamp": 1080962599.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -55578,7 +54880,7 @@
   },
   {
     "sequence_number": "0395",
-    "timestamp": 1080962799.0,
+    "timestamp": 1080962599.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -55714,7 +55016,7 @@
   },
   {
     "sequence_number": "0396",
-    "timestamp": 1080962799.0,
+    "timestamp": 1080962599.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -55850,7 +55152,7 @@
   },
   {
     "sequence_number": "0397",
-    "timestamp": 1080962799.0,
+    "timestamp": 1080962599.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -56082,47 +55384,16 @@
   },
   {
     "sequence_number": "0398",
-    "timestamp": 1080962799.0,
+    "timestamp": 1080962599.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
-    "by_candidate": [
-      {
-        "candidate_name": "Earl Gunasekara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Hewa Gajaman pattinige Nelson",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kapugamage Palle Mulle Sidney Jayarathna ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Pallevatte Gamaralalage Maithripala Sirisena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ananda Sarath Kumara Ratnayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0399",
-    "timestamp": 1080962863.0,
+    "timestamp": 1080962669.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -56281,7 +55552,7 @@
   },
   {
     "sequence_number": "0400",
-    "timestamp": 1080962863.0,
+    "timestamp": 1080962669.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -56438,7 +55709,7 @@
   },
   {
     "sequence_number": "0401",
-    "timestamp": 1080963121.0,
+    "timestamp": 1080962998.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -56621,7 +55892,7 @@
   },
   {
     "sequence_number": "0402",
-    "timestamp": 1080963121.0,
+    "timestamp": 1080962998.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -56796,7 +56067,7 @@
   },
   {
     "sequence_number": "0403",
-    "timestamp": 1080963660.0,
+    "timestamp": 1080963422.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -56955,7 +56226,7 @@
   },
   {
     "sequence_number": "0404",
-    "timestamp": 1080963660.0,
+    "timestamp": 1080963422.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -57112,7 +56383,7 @@
   },
   {
     "sequence_number": "0405",
-    "timestamp": 1080963863.0,
+    "timestamp": 1080963738.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -57295,7 +56566,7 @@
   },
   {
     "sequence_number": "0406",
-    "timestamp": 1080963863.0,
+    "timestamp": 1080963738.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -57470,7 +56741,7 @@
   },
   {
     "sequence_number": "0407",
-    "timestamp": 1080964269.0,
+    "timestamp": 1080963799.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -57629,7 +56900,7 @@
   },
   {
     "sequence_number": "0408",
-    "timestamp": 1080964269.0,
+    "timestamp": 1080963799.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -57809,7 +57080,7 @@
   },
   {
     "sequence_number": "0409",
-    "timestamp": 1080964269.0,
+    "timestamp": 1080963799.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -57980,7 +57251,7 @@
   },
   {
     "sequence_number": "0410",
-    "timestamp": 1080964269.0,
+    "timestamp": 1080963799.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -58151,7 +57422,7 @@
   },
   {
     "sequence_number": "0411",
-    "timestamp": 1080964269.0,
+    "timestamp": 1080963799.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -58383,125 +57654,16 @@
   },
   {
     "sequence_number": "0412",
-    "timestamp": 1080964269.0,
+    "timestamp": 1080963799.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
-    "by_candidate": [
-      {
-        "candidate_name": "Karu Jayasuriya",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jayalath Jayawardena",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "M. Joseph Michael Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amaratunga John Anthony Emmanuel ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Karunamuni lalin olitha de Silva prematiranta",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Edward Gunasekera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajapaksa Suranimala",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajakaruna Sarathchandra",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ravindra Randeniya",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anura Priyadarshi Solomon Dias Bandaranaike",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jeyaraj Fernandopulle",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chakravarti Pandukabhaya Dias Bandaranaike",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Felix Perera",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bamunuarachchi patirannahalage Sarana Gupta Gunawardena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Reggie Padmasena Ranatunga ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Don Jayawickramage Neil Rupasinghe",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "H.M. Vijitha Herath",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "A.R. Anjan Umma",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0413",
-    "timestamp": 1080964759.0,
+    "timestamp": 1080963876.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -58660,7 +57822,7 @@
   },
   {
     "sequence_number": "0414",
-    "timestamp": 1080964759.0,
+    "timestamp": 1080963876.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -58817,7 +57979,7 @@
   },
   {
     "sequence_number": "0415",
-    "timestamp": 1080964871.0,
+    "timestamp": 1080964389.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -58946,7 +58108,7 @@
   },
   {
     "sequence_number": "0416",
-    "timestamp": 1080964871.0,
+    "timestamp": 1080964389.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -59091,7 +58253,7 @@
   },
   {
     "sequence_number": "0417",
-    "timestamp": 1080964871.0,
+    "timestamp": 1080964389.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -59227,7 +58389,7 @@
   },
   {
     "sequence_number": "0418",
-    "timestamp": 1080964871.0,
+    "timestamp": 1080964389.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -59363,7 +58525,7 @@
   },
   {
     "sequence_number": "0419",
-    "timestamp": 1080964871.0,
+    "timestamp": 1080964389.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -59595,59 +58757,16 @@
   },
   {
     "sequence_number": "0420",
-    "timestamp": 1080964871.0,
+    "timestamp": 1080964389.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
-    "by_candidate": [
-      {
-        "candidate_name": "Premadasa Sajith ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dilip Wedaarachchi",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Andrahennadi Siri Alexander",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kadukannage Ananda Kularathna",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajapaksa Mahinda ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajapaksa Chamal ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Galappaththi Arachchige Nihal",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0421",
-    "timestamp": 1080965038.0,
+    "timestamp": 1080964607.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -59806,7 +58925,7 @@
   },
   {
     "sequence_number": "0422",
-    "timestamp": 1080965038.0,
+    "timestamp": 1080964607.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -59986,7 +59105,7 @@
   },
   {
     "sequence_number": "0423",
-    "timestamp": 1080965038.0,
+    "timestamp": 1080964607.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -60157,7 +59276,7 @@
   },
   {
     "sequence_number": "0424",
-    "timestamp": 1080965038.0,
+    "timestamp": 1080964607.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -60328,7 +59447,7 @@
   },
   {
     "sequence_number": "0425",
-    "timestamp": 1080965038.0,
+    "timestamp": 1080964607.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -60560,89 +59679,16 @@
   },
   {
     "sequence_number": "0426",
-    "timestamp": 1080965038.0,
+    "timestamp": 1080964607.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
-    "by_candidate": [
-      {
-        "candidate_name": "Keheliya Rambukwella",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Attanayake Mudiyanselage Kuda Banda Thissa Attanayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Haleem Mohammad Hashim",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Rawuf Hakeem",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kiriella Lakshman Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeyrathna Chitra Srimathi mantilaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Herath Mudiyanselage Lucky Dissanayake Jayawardena",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anuruddha Ratwatte",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amunugama Sarath L.B.",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Thilina Bandara Thennakoon",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aluthgamage Mahindananda ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeykone Dimuthu Bandara",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0427",
-    "timestamp": 1080965618.0,
+    "timestamp": 1080965122.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -60801,7 +59847,7 @@
   },
   {
     "sequence_number": "0428",
-    "timestamp": 1080965618.0,
+    "timestamp": 1080965122.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -60981,7 +60027,7 @@
   },
   {
     "sequence_number": "0429",
-    "timestamp": 1080965618.0,
+    "timestamp": 1080965122.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -61152,7 +60198,7 @@
   },
   {
     "sequence_number": "0430",
-    "timestamp": 1080965618.0,
+    "timestamp": 1080965122.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -61323,7 +60369,7 @@
   },
   {
     "sequence_number": "0431",
-    "timestamp": 1080965618.0,
+    "timestamp": 1080965122.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -61555,59 +60601,16 @@
   },
   {
     "sequence_number": "0432",
-    "timestamp": 1080965618.0,
+    "timestamp": 1080965122.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
-    "by_candidate": [
-      {
-        "candidate_name": "Athaulla Ahmed Lebbe Marikkar",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abib Mohamed Mohamed  Haris",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anwar Ismail Mohamed Ismail",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Asrap Ferial",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Thevarapperuma Arachilage Karunasinghe Thewarapperuma",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Patikirige Dayarathna",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chandranehru ariyanayagam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0433",
-    "timestamp": 1080965924.0,
+    "timestamp": 1080965551.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -61790,7 +60793,7 @@
   },
   {
     "sequence_number": "0434",
-    "timestamp": 1080965924.0,
+    "timestamp": 1080965551.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -61965,7 +60968,7 @@
   },
   {
     "sequence_number": "0435",
-    "timestamp": 1080966363.0,
+    "timestamp": 1080965967.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -62148,7 +61151,7 @@
   },
   {
     "sequence_number": "0436",
-    "timestamp": 1080966363.0,
+    "timestamp": 1080965967.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -62323,7 +61326,7 @@
   },
   {
     "sequence_number": "0437",
-    "timestamp": 1080966484.0,
+    "timestamp": 1080966076.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -62506,7 +61509,7 @@
   },
   {
     "sequence_number": "0438",
-    "timestamp": 1080966484.0,
+    "timestamp": 1080966076.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -62681,7 +61684,7 @@
   },
   {
     "sequence_number": "0439",
-    "timestamp": 1080966684.0,
+    "timestamp": 1080966664.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -62864,7 +61867,7 @@
   },
   {
     "sequence_number": "0440",
-    "timestamp": 1080966684.0,
+    "timestamp": 1080966664.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -63065,7 +62068,7 @@
   },
   {
     "sequence_number": "0441",
-    "timestamp": 1080966684.0,
+    "timestamp": 1080966664.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -63257,7 +62260,7 @@
   },
   {
     "sequence_number": "0442",
-    "timestamp": 1080966684.0,
+    "timestamp": 1080966664.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -63449,7 +62452,7 @@
   },
   {
     "sequence_number": "0443",
-    "timestamp": 1080966684.0,
+    "timestamp": 1080966664.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -63688,143 +62691,16 @@
   },
   {
     "sequence_number": "0444",
-    "timestamp": 1080966684.0,
+    "timestamp": 1080966664.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
-    "by_candidate": [
-      {
-        "candidate_name": "Ranil Wickremesinghe",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Asoka Milinda Moragoda",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ravindra sandresh Karunanayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mohamed Maharoof",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aarachchige Karunasena Kodituwakku",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamini Kulawansa Lokuge ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bandula Gunawardena",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mohamed Hanifah Mohamed ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mano Ganeshan",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ketagoda Gamage Jayantha Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tiron Fernando",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kanahela Bandaralage Lilantha Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "A. Abdul Hameed Mohamed Fowzi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Arjuna Ranatunga",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Achchige Don Susil Premajayantha",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dinesh Chandra Rupasinghe Gunawardena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jeevan Kumaratunga",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bharatha Lakshman Premachandra",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chandana Kathriarachchi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Wimal Weerawansa",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sunil Handunnetti",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0445",
-    "timestamp": 1080967082.0,
+    "timestamp": 1080966931.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
@@ -63977,7 +62853,7 @@
   },
   {
     "sequence_number": "0446",
-    "timestamp": 1080967082.0,
+    "timestamp": 1080966931.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -64150,7 +63026,7 @@
   },
   {
     "sequence_number": "0447",
-    "timestamp": 1080967082.0,
+    "timestamp": 1080966931.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -64314,7 +63190,7 @@
   },
   {
     "sequence_number": "0448",
-    "timestamp": 1080967082.0,
+    "timestamp": 1080966931.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -64478,7 +63354,7 @@
   },
   {
     "sequence_number": "0449",
-    "timestamp": 1080967082.0,
+    "timestamp": 1080966931.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -64717,47 +63593,16 @@
   },
   {
     "sequence_number": "0450",
-    "timestamp": 1080967082.0,
+    "timestamp": 1080966931.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
-    "by_candidate": [
-      {
-        "candidate_name": "Tambiraja tangavadivel",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gnanamuttu krisnapillayi",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Yosap pararajasingam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Cader M.B.M.",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aleem mohammat Hizbollah",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0451",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -64886,7 +63731,7 @@
   },
   {
     "sequence_number": "0452",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -65031,7 +63876,7 @@
   },
   {
     "sequence_number": "0453",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -65167,7 +64012,7 @@
   },
   {
     "sequence_number": "0454",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -65303,7 +64148,7 @@
   },
   {
     "sequence_number": "0455",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -65584,59 +64429,16 @@
   },
   {
     "sequence_number": "0456",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
-    "by_candidate": [
-      {
-        "candidate_name": "Saumyamurti Arumugam Ramanathan Thondaman",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sandrasekaran Periyasamy ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sivalingam Muthu ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Eranjan Navin Dissanayake ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kaladugoda kankanamge Piyadasa",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "R.M.C.B. Ratnayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dassanayaka Mudiyanselage Shantha Kumara Dassanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      }
-    ]
+    "by_candidate": []
   },
   {
     "sequence_number": "0457",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RN_V",
     "level": "NATIONAL",
     "by_party": [
@@ -65965,7 +64767,7 @@
   },
   {
     "sequence_number": "0458",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RN_VS",
     "level": "NATIONAL",
     "by_party": [
@@ -66294,7 +65096,7 @@
   },
   {
     "sequence_number": "0459",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RN_VSN",
     "level": "NATIONAL",
     "by_party": [
@@ -66623,7 +65425,7 @@
   },
   {
     "sequence_number": "0460",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RN_NC",
     "level": "NATIONAL",
     "by_candidate": [
@@ -66805,1186 +65607,10 @@
   },
   {
     "sequence_number": "0461",
-    "timestamp": 1080967417.0,
+    "timestamp": 1080967477.0,
     "type": "RN_SCNC",
     "level": "NATIONAL",
     "by_candidate": [
-      {
-        "candidate_name": "Anandasangari Weerasingalingam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Somasundaram senadirasa Mawayi",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gajendrakumar gankesar Ponnambalam ",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Appathurai Vinayagamurthi",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nadaraja Raviraj",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kanagalingam Sivajilingam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Douglas Devananda",
-        "party_name": "Eelam Democratic Party",
-        "party_code": "EPDP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nadarasa madanarasa",
-        "party_name": "Eelam Democratic Party",
-        "party_code": "EPDP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Theagarajah Maheshwaran",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "W.J.M. Lokubandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Lakshman Seneviratne",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ravindra Samaraweera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Upali  Deltan Samaraweera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Karuppaiah Velayudham",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nilenti Nimal Siripala de Silva",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Appuhami Ralalage Madduma bandara Sathapenage",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "D.D.W. Wickramarathna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Adaikalanathan amirtanadan",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Irasa kuganesvaran",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Nadesu Sivasakthy Anandan",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Noordeen Mashoor",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Rishard Badhiutheen",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tarumalingam sittartan",
-        "party_name": "Democrats People's Liberation Front",
-        "party_code": "DPLF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rukman Senanayaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ambathanna devayalage Premadasa Champika ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kabeer Hashim",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Herath Ralalage Jayatileke Podinilame",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Arachchige Don Sirisena Rupasinghe",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mahipala Herath",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Athauda Senewirathna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ranjith Siyambalapitiya",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mahinda Wijesekera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywardena Yapa  Lakshman ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Justin Galappaththi",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sagala Gajendra Ratnayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mangala Pinsiri Samaraweera ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywardena Yapa Mahinda ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "de Mel Mallika Lakshmi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jinadasa kitulagoda",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Palitha Range Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamamadaliyanage Joseph Lalith Niyomal Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mary Larrin Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Warnakulasooriya manikkuge Anton Sugath Thisera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "D.M. Dissanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Milroy Fernando",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anton Dayasritha Perera ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamini Jayawickrama",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Johnston Xavier Fernando",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Indika Bandaranayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rohitha Bogollagama",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dissanayake Mudiyanselage Bandaranayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "A. Upali piyasoma",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amara Piyaseeli Ratnayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anura Gopallawa",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "S. B. Navinna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Salinda Dissanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anura Priyadarshana Yapa",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jayarathna Herath",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "T.B. Ekanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "S. Kumari Tennakoon",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bimal Niroshan Ratnayake Weerakone",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdulla Mohamed Maharoof Mohamed  ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "kabib Mohammed Taufiq",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Irajavarodayam Sampanthan",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Appuhamilage Don Somadasa Gunawardena Munasinghe Kariyawasam",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywardena Vajira ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Hemakumara Wickramatilake Nanayakkara ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gayantha Karunathilaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeywickrema Ananda Jayantha",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jayantha Jayaweera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amarasiri Dodangoda",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Richard Pathirana",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ihala Madagama Gamage Piyasena ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Baddegama Samitha Thero",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Athula Indika Weerakoon",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "P. Harrison",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chandrani Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ekanayake Wilfred Bandara ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Lal Dharmapriya Gamage ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Duminda Dissanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Samarakone Mudiyanselage Chandrasena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tissa Wijeratne Karaliyadde",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kuragamage Don Lal Kantha",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aluvihare Alick ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aluvihare Ranjith ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rasnayaka Mudiyanselage Sanjeewa Bandara Kavirathna",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Janaka Bandara Thannakoon",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "S.B. Bandula Yalegama",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mahinda Buddhadasa Samarasinghe",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajitha Senaratne",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Bakeer Markar Imtiaz",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeyrathna Pathirage Don",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ananda Lakshman Wijemanne",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ratnasiri Wickremanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kumara Welgama",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tyudar Dayarathna",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeygunawardena Rohitha ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "M.D. Nandana Gunathilaka",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamini Athukorala",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Susantha Galgamuwa Punchinilame",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ihalek Kankanamalage Mahinda Rathnathilaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeysinghe Arachilage Wijethunga",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeynayaka Piyadasa",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aarachchige Pawithra Wanniarachchi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Halkadaliya Lekamlage Premalal Jayasekara",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "John Seneviratne",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Asoka Jayawardena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Achala Suranga Mabotuvana Jagodage",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Arukattu Patabendige Jagath Pushpakumara",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sumedha G. Jayasena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamini Vijith Vijayamuni Soysa",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rathnayaka Mudiyanselage Ranjith Madduma Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ananda Kumarasiri Jayasundara Mudiyanselage",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Earl Gunasekara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Hewa Gajaman pattinige Nelson",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kapugamage Palle Mulle Sidney Jayarathna ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Pallevatte Gamaralalage Maithripala Sirisena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ananda Sarath Kumara Ratnayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Karu Jayasuriya",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jayalath Jayawardena",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "M. Joseph Michael Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amaratunga John Anthony Emmanuel ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Karunamuni lalin olitha de Silva prematiranta",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Edward Gunasekera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajapaksa Suranimala",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajakaruna Sarathchandra",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ravindra Randeniya",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anura Priyadarshi Solomon Dias Bandaranaike",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jeyaraj Fernandopulle",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chakravarti Pandukabhaya Dias Bandaranaike",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Felix Perera",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bamunuarachchi patirannahalage Sarana Gupta Gunawardena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Reggie Padmasena Ranatunga ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Don Jayawickramage Neil Rupasinghe",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "H.M. Vijitha Herath",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "A.R. Anjan Umma",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Premadasa Sajith ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dilip Wedaarachchi",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Andrahennadi Siri Alexander",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kadukannage Ananda Kularathna",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajapaksa Mahinda ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Rajapaksa Chamal ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Galappaththi Arachchige Nihal",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Keheliya Rambukwella",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Attanayake Mudiyanselage Kuda Banda Thissa Attanayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Haleem Mohammad Hashim",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Rawuf Hakeem",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kiriella Lakshman Bandara",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeyrathna Chitra Srimathi mantilaka",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Herath Mudiyanselage Lucky Dissanayake Jayawardena",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anuruddha Ratwatte",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Amunugama Sarath L.B.",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Thilina Bandara Thennakoon",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aluthgamage Mahindananda ",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abeykone Dimuthu Bandara",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Athaulla Ahmed Lebbe Marikkar",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abib Mohamed Mohamed  Haris",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Anwar Ismail Mohamed Ismail",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Asrap Ferial",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Thevarapperuma Arachilage Karunasinghe Thewarapperuma",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Patikirige Dayarathna",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chandranehru ariyanayagam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ranil Wickremesinghe",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Asoka Milinda Moragoda",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ravindra sandresh Karunanayake",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mohamed Maharoof",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aarachchige Karunasena Kodituwakku",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gamini Kulawansa Lokuge ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bandula Gunawardena",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mohamed Hanifah Mohamed ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Mano Ganeshan",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Ketagoda Gamage Jayantha Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tiron Fernando",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kanahela Bandaralage Lilantha Perera",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "A. Abdul Hameed Mohamed Fowzi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Arjuna Ranatunga",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Achchige Don Susil Premajayantha",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dinesh Chandra Rupasinghe Gunawardena",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Jeevan Kumaratunga",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Bharatha Lakshman Premachandra",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Chandana Kathriarachchi",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Wimal Weerawansa",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sunil Handunnetti",
-        "party_name": "People's Liberation Front",
-        "party_code": "JVP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Tambiraja tangavadivel",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Gnanamuttu krisnapillayi",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Yosap pararajasingam",
-        "party_name": "Tamil United Liberation Front",
-        "party_code": "TULF",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Abdul Cader M.B.M.",
-        "party_name": "Sri Lanka Muslim Congress",
-        "party_code": "SLMC",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Aleem mohammat Hizbollah",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Saumyamurti Arumugam Ramanathan Thondaman",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sandrasekaran Periyasamy ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Sivalingam Muthu ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Eranjan Navin Dissanayake ",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Kaladugoda kankanamge Piyadasa",
-        "party_name": "United National Party",
-        "party_code": "UNP",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "R.M.C.B. Ratnayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
-      {
-        "candidate_name": "Dassanayaka Mudiyanselage Shantha Kumara Dassanayake",
-        "party_name": "Peoples United Front",
-        "party_code": "UPFA",
-        "candidate_number": 0
-      },
       {
         "party_code": "UPFA",
         "party_name": "United People's Freedom Alliance",

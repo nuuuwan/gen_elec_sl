@@ -1,7 +1,7 @@
 [
   {
     "sequence_number": "0001",
-    "timestamp": 603549092.0,
+    "timestamp": 603549123.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -52,7 +52,7 @@
   },
   {
     "sequence_number": "0002",
-    "timestamp": 603549092.0,
+    "timestamp": 603549123.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -101,7 +101,7 @@
   },
   {
     "sequence_number": "0003",
-    "timestamp": 603549169.0,
+    "timestamp": 603549644.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -152,7 +152,7 @@
   },
   {
     "sequence_number": "0004",
-    "timestamp": 603549169.0,
+    "timestamp": 603549644.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -201,7 +201,7 @@
   },
   {
     "sequence_number": "0005",
-    "timestamp": 603549502.0,
+    "timestamp": 603549896.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -258,7 +258,7 @@
   },
   {
     "sequence_number": "0006",
-    "timestamp": 603549502.0,
+    "timestamp": 603549896.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -313,7 +313,7 @@
   },
   {
     "sequence_number": "0007",
-    "timestamp": 603549954.0,
+    "timestamp": 603550471.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -370,7 +370,7 @@
   },
   {
     "sequence_number": "0008",
-    "timestamp": 603549954.0,
+    "timestamp": 603550471.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -425,7 +425,7 @@
   },
   {
     "sequence_number": "0009",
-    "timestamp": 603550128.0,
+    "timestamp": 603550560.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -482,7 +482,7 @@
   },
   {
     "sequence_number": "0010",
-    "timestamp": 603550128.0,
+    "timestamp": 603550560.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -537,7 +537,7 @@
   },
   {
     "sequence_number": "0011",
-    "timestamp": 603550322.0,
+    "timestamp": 603551138.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -582,7 +582,7 @@
   },
   {
     "sequence_number": "0012",
-    "timestamp": 603550322.0,
+    "timestamp": 603551138.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -625,7 +625,7 @@
   },
   {
     "sequence_number": "0013",
-    "timestamp": 603550398.0,
+    "timestamp": 603551651.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -682,7 +682,7 @@
   },
   {
     "sequence_number": "0014",
-    "timestamp": 603550398.0,
+    "timestamp": 603551651.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -737,7 +737,7 @@
   },
   {
     "sequence_number": "0015",
-    "timestamp": 603550713.0,
+    "timestamp": 603552133.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -788,7 +788,7 @@
   },
   {
     "sequence_number": "0016",
-    "timestamp": 603550713.0,
+    "timestamp": 603552133.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -837,7 +837,7 @@
   },
   {
     "sequence_number": "0017",
-    "timestamp": 603551094.0,
+    "timestamp": 603552396.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -888,7 +888,7 @@
   },
   {
     "sequence_number": "0018",
-    "timestamp": 603551094.0,
+    "timestamp": 603552396.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -937,7 +937,7 @@
   },
   {
     "sequence_number": "0019",
-    "timestamp": 603551685.0,
+    "timestamp": 603552758.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -988,7 +988,7 @@
   },
   {
     "sequence_number": "0020",
-    "timestamp": 603551685.0,
+    "timestamp": 603552758.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -1037,7 +1037,7 @@
   },
   {
     "sequence_number": "0021",
-    "timestamp": 603551898.0,
+    "timestamp": 603553093.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -1088,7 +1088,7 @@
   },
   {
     "sequence_number": "0022",
-    "timestamp": 603551898.0,
+    "timestamp": 603553093.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -1137,7 +1137,7 @@
   },
   {
     "sequence_number": "0023",
-    "timestamp": 603552431.0,
+    "timestamp": 603553568.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -1200,7 +1200,7 @@
   },
   {
     "sequence_number": "0024",
-    "timestamp": 603552431.0,
+    "timestamp": 603553568.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -1261,7 +1261,7 @@
   },
   {
     "sequence_number": "0025",
-    "timestamp": 603552725.0,
+    "timestamp": 603554138.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -1318,7 +1318,7 @@
   },
   {
     "sequence_number": "0026",
-    "timestamp": 603552725.0,
+    "timestamp": 603554138.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -1373,7 +1373,7 @@
   },
   {
     "sequence_number": "0027",
-    "timestamp": 603553027.0,
+    "timestamp": 603554551.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -1418,7 +1418,7 @@
   },
   {
     "sequence_number": "0028",
-    "timestamp": 603553027.0,
+    "timestamp": 603554551.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -1461,7 +1461,7 @@
   },
   {
     "sequence_number": "0029",
-    "timestamp": 603553309.0,
+    "timestamp": 603555042.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -1512,7 +1512,7 @@
   },
   {
     "sequence_number": "0030",
-    "timestamp": 603553309.0,
+    "timestamp": 603555042.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -1561,7 +1561,7 @@
   },
   {
     "sequence_number": "0031",
-    "timestamp": 603553703.0,
+    "timestamp": 603555535.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -1612,7 +1612,7 @@
   },
   {
     "sequence_number": "0032",
-    "timestamp": 603553703.0,
+    "timestamp": 603555535.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -1661,7 +1661,7 @@
   },
   {
     "sequence_number": "0033",
-    "timestamp": 603554145.0,
+    "timestamp": 603555929.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -1718,7 +1718,7 @@
   },
   {
     "sequence_number": "0034",
-    "timestamp": 603554145.0,
+    "timestamp": 603555929.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -1773,7 +1773,7 @@
   },
   {
     "sequence_number": "0035",
-    "timestamp": 603554503.0,
+    "timestamp": 603556099.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -1824,7 +1824,7 @@
   },
   {
     "sequence_number": "0036",
-    "timestamp": 603554503.0,
+    "timestamp": 603556099.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -1873,7 +1873,7 @@
   },
   {
     "sequence_number": "0037",
-    "timestamp": 603554720.0,
+    "timestamp": 603556251.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -1924,7 +1924,7 @@
   },
   {
     "sequence_number": "0038",
-    "timestamp": 603554720.0,
+    "timestamp": 603556251.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -1973,7 +1973,7 @@
   },
   {
     "sequence_number": "0039",
-    "timestamp": 603554878.0,
+    "timestamp": 603556748.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -2024,7 +2024,7 @@
   },
   {
     "sequence_number": "0040",
-    "timestamp": 603554878.0,
+    "timestamp": 603556748.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -2073,7 +2073,7 @@
   },
   {
     "sequence_number": "0041",
-    "timestamp": 603555074.0,
+    "timestamp": 603557028.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -2124,7 +2124,7 @@
   },
   {
     "sequence_number": "0042",
-    "timestamp": 603555074.0,
+    "timestamp": 603557028.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -2173,7 +2173,7 @@
   },
   {
     "sequence_number": "0043",
-    "timestamp": 603555565.0,
+    "timestamp": 603557559.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
@@ -2224,7 +2224,7 @@
   },
   {
     "sequence_number": "0044",
-    "timestamp": 603555565.0,
+    "timestamp": 603557559.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -2273,7 +2273,7 @@
   },
   {
     "sequence_number": "0045",
-    "timestamp": 603556035.0,
+    "timestamp": 603557672.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -2324,7 +2324,7 @@
   },
   {
     "sequence_number": "0046",
-    "timestamp": 603556035.0,
+    "timestamp": 603557672.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -2373,7 +2373,7 @@
   },
   {
     "sequence_number": "0047",
-    "timestamp": 603556515.0,
+    "timestamp": 603557786.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -2424,7 +2424,7 @@
   },
   {
     "sequence_number": "0048",
-    "timestamp": 603556515.0,
+    "timestamp": 603557786.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -2473,7 +2473,7 @@
   },
   {
     "sequence_number": "0049",
-    "timestamp": 603556902.0,
+    "timestamp": 603557872.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -2530,7 +2530,7 @@
   },
   {
     "sequence_number": "0050",
-    "timestamp": 603556902.0,
+    "timestamp": 603557872.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -2585,7 +2585,7 @@
   },
   {
     "sequence_number": "0051",
-    "timestamp": 603557387.0,
+    "timestamp": 603558002.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -2642,7 +2642,7 @@
   },
   {
     "sequence_number": "0052",
-    "timestamp": 603557387.0,
+    "timestamp": 603558002.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -2697,7 +2697,7 @@
   },
   {
     "sequence_number": "0053",
-    "timestamp": 603557983.0,
+    "timestamp": 603558075.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -2754,7 +2754,7 @@
   },
   {
     "sequence_number": "0054",
-    "timestamp": 603557983.0,
+    "timestamp": 603558075.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -2809,7 +2809,7 @@
   },
   {
     "sequence_number": "0055",
-    "timestamp": 603558572.0,
+    "timestamp": 603558406.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -2866,7 +2866,7 @@
   },
   {
     "sequence_number": "0056",
-    "timestamp": 603558572.0,
+    "timestamp": 603558406.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -2921,7 +2921,7 @@
   },
   {
     "sequence_number": "0057",
-    "timestamp": 603558788.0,
+    "timestamp": 603558596.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -2972,7 +2972,7 @@
   },
   {
     "sequence_number": "0058",
-    "timestamp": 603558788.0,
+    "timestamp": 603558596.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -3021,7 +3021,7 @@
   },
   {
     "sequence_number": "0059",
-    "timestamp": 603558928.0,
+    "timestamp": 603558857.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -3072,7 +3072,7 @@
   },
   {
     "sequence_number": "0060",
-    "timestamp": 603558928.0,
+    "timestamp": 603558857.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -3121,7 +3121,7 @@
   },
   {
     "sequence_number": "0061",
-    "timestamp": 603559303.0,
+    "timestamp": 603559094.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -3172,7 +3172,7 @@
   },
   {
     "sequence_number": "0062",
-    "timestamp": 603559303.0,
+    "timestamp": 603559094.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -3221,7 +3221,7 @@
   },
   {
     "sequence_number": "0063",
-    "timestamp": 603559411.0,
+    "timestamp": 603559377.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -3272,7 +3272,7 @@
   },
   {
     "sequence_number": "0064",
-    "timestamp": 603559411.0,
+    "timestamp": 603559377.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -3321,7 +3321,7 @@
   },
   {
     "sequence_number": "0065",
-    "timestamp": 603559495.0,
+    "timestamp": 603559669.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
@@ -3366,7 +3366,7 @@
   },
   {
     "sequence_number": "0066",
-    "timestamp": 603559495.0,
+    "timestamp": 603559669.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -3409,7 +3409,7 @@
   },
   {
     "sequence_number": "0067",
-    "timestamp": 603559828.0,
+    "timestamp": 603559944.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -3460,7 +3460,7 @@
   },
   {
     "sequence_number": "0068",
-    "timestamp": 603559828.0,
+    "timestamp": 603559944.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -3509,7 +3509,7 @@
   },
   {
     "sequence_number": "0069",
-    "timestamp": 603560310.0,
+    "timestamp": 603560488.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -3560,7 +3560,7 @@
   },
   {
     "sequence_number": "0070",
-    "timestamp": 603560310.0,
+    "timestamp": 603560488.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -3609,7 +3609,7 @@
   },
   {
     "sequence_number": "0071",
-    "timestamp": 603560699.0,
+    "timestamp": 603560771.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
@@ -3660,7 +3660,7 @@
   },
   {
     "sequence_number": "0072",
-    "timestamp": 603560699.0,
+    "timestamp": 603560771.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -3709,7 +3709,7 @@
   },
   {
     "sequence_number": "0073",
-    "timestamp": 603561096.0,
+    "timestamp": 603561185.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -3760,7 +3760,7 @@
   },
   {
     "sequence_number": "0074",
-    "timestamp": 603561096.0,
+    "timestamp": 603561185.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -3809,7 +3809,7 @@
   },
   {
     "sequence_number": "0075",
-    "timestamp": 603561241.0,
+    "timestamp": 603561682.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -3860,7 +3860,7 @@
   },
   {
     "sequence_number": "0076",
-    "timestamp": 603561241.0,
+    "timestamp": 603561682.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -3909,7 +3909,7 @@
   },
   {
     "sequence_number": "0077",
-    "timestamp": 603561643.0,
+    "timestamp": 603561923.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -3966,7 +3966,7 @@
   },
   {
     "sequence_number": "0078",
-    "timestamp": 603561643.0,
+    "timestamp": 603561923.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -4021,7 +4021,7 @@
   },
   {
     "sequence_number": "0079",
-    "timestamp": 603561986.0,
+    "timestamp": 603562017.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -4072,7 +4072,7 @@
   },
   {
     "sequence_number": "0080",
-    "timestamp": 603561986.0,
+    "timestamp": 603562017.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -4121,7 +4121,7 @@
   },
   {
     "sequence_number": "0081",
-    "timestamp": 603562186.0,
+    "timestamp": 603562548.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -4166,7 +4166,7 @@
   },
   {
     "sequence_number": "0082",
-    "timestamp": 603562186.0,
+    "timestamp": 603562548.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -4209,7 +4209,7 @@
   },
   {
     "sequence_number": "0083",
-    "timestamp": 603562740.0,
+    "timestamp": 603563109.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -4266,7 +4266,7 @@
   },
   {
     "sequence_number": "0084",
-    "timestamp": 603562740.0,
+    "timestamp": 603563109.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -4321,7 +4321,7 @@
   },
   {
     "sequence_number": "0085",
-    "timestamp": 603562839.0,
+    "timestamp": 603563429.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -4378,7 +4378,7 @@
   },
   {
     "sequence_number": "0086",
-    "timestamp": 603562839.0,
+    "timestamp": 603563429.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -4433,7 +4433,7 @@
   },
   {
     "sequence_number": "0087",
-    "timestamp": 603563321.0,
+    "timestamp": 603563956.0,
     "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -4490,7 +4490,7 @@
   },
   {
     "sequence_number": "0088",
-    "timestamp": 603563321.0,
+    "timestamp": 603563956.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -4545,7 +4545,7 @@
   },
   {
     "sequence_number": "0089",
-    "timestamp": 603563424.0,
+    "timestamp": 603564366.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
@@ -4590,7 +4590,7 @@
   },
   {
     "sequence_number": "0090",
-    "timestamp": 603563424.0,
+    "timestamp": 603564366.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -4633,7 +4633,7 @@
   },
   {
     "sequence_number": "0091",
-    "timestamp": 603563903.0,
+    "timestamp": 603564561.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -4684,7 +4684,7 @@
   },
   {
     "sequence_number": "0092",
-    "timestamp": 603563903.0,
+    "timestamp": 603564561.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -4733,7 +4733,7 @@
   },
   {
     "sequence_number": "0093",
-    "timestamp": 603564472.0,
+    "timestamp": 603564773.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
@@ -4784,7 +4784,7 @@
   },
   {
     "sequence_number": "0094",
-    "timestamp": 603564472.0,
+    "timestamp": 603564773.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -4838,7 +4838,7 @@
   },
   {
     "sequence_number": "0095",
-    "timestamp": 603564472.0,
+    "timestamp": 603564773.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -4883,7 +4883,7 @@
   },
   {
     "sequence_number": "0096",
-    "timestamp": 603564472.0,
+    "timestamp": 603564773.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -4928,7 +4928,7 @@
   },
   {
     "sequence_number": "0097",
-    "timestamp": 603564472.0,
+    "timestamp": 603564773.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -4971,7 +4971,7 @@
   },
   {
     "sequence_number": "0098",
-    "timestamp": 603564472.0,
+    "timestamp": 603564773.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
@@ -5017,7 +5017,7 @@
   },
   {
     "sequence_number": "0099",
-    "timestamp": 603564844.0,
+    "timestamp": 603565047.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -5068,7 +5068,7 @@
   },
   {
     "sequence_number": "0100",
-    "timestamp": 603564844.0,
+    "timestamp": 603565047.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -5117,7 +5117,7 @@
   },
   {
     "sequence_number": "0101",
-    "timestamp": 603565400.0,
+    "timestamp": 603565333.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -5168,7 +5168,7 @@
   },
   {
     "sequence_number": "0102",
-    "timestamp": 603565400.0,
+    "timestamp": 603565333.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -5217,7 +5217,7 @@
   },
   {
     "sequence_number": "0103",
-    "timestamp": 603565512.0,
+    "timestamp": 603565407.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -5274,7 +5274,7 @@
   },
   {
     "sequence_number": "0104",
-    "timestamp": 603565512.0,
+    "timestamp": 603565407.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -5329,7 +5329,7 @@
   },
   {
     "sequence_number": "0105",
-    "timestamp": 603566062.0,
+    "timestamp": 603565533.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -5386,7 +5386,7 @@
   },
   {
     "sequence_number": "0106",
-    "timestamp": 603566062.0,
+    "timestamp": 603565533.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -5441,7 +5441,7 @@
   },
   {
     "sequence_number": "0107",
-    "timestamp": 603566654.0,
+    "timestamp": 603565677.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -5492,7 +5492,7 @@
   },
   {
     "sequence_number": "0108",
-    "timestamp": 603566654.0,
+    "timestamp": 603565677.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -5541,7 +5541,7 @@
   },
   {
     "sequence_number": "0109",
-    "timestamp": 603566869.0,
+    "timestamp": 603566100.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -5592,7 +5592,7 @@
   },
   {
     "sequence_number": "0110",
-    "timestamp": 603566869.0,
+    "timestamp": 603566100.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -5641,7 +5641,7 @@
   },
   {
     "sequence_number": "0111",
-    "timestamp": 603566955.0,
+    "timestamp": 603566165.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -5698,7 +5698,7 @@
   },
   {
     "sequence_number": "0112",
-    "timestamp": 603566955.0,
+    "timestamp": 603566165.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -5753,7 +5753,7 @@
   },
   {
     "sequence_number": "0113",
-    "timestamp": 603567368.0,
+    "timestamp": 603566525.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -5810,7 +5810,7 @@
   },
   {
     "sequence_number": "0114",
-    "timestamp": 603567368.0,
+    "timestamp": 603566525.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -5865,7 +5865,7 @@
   },
   {
     "sequence_number": "0115",
-    "timestamp": 603567812.0,
+    "timestamp": 603567066.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -5916,7 +5916,7 @@
   },
   {
     "sequence_number": "0116",
-    "timestamp": 603567812.0,
+    "timestamp": 603567066.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -5965,7 +5965,7 @@
   },
   {
     "sequence_number": "0117",
-    "timestamp": 603568010.0,
+    "timestamp": 603567473.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -6022,7 +6022,7 @@
   },
   {
     "sequence_number": "0118",
-    "timestamp": 603568010.0,
+    "timestamp": 603567473.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -6077,7 +6077,7 @@
   },
   {
     "sequence_number": "0119",
-    "timestamp": 603568415.0,
+    "timestamp": 603567773.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -6134,7 +6134,7 @@
   },
   {
     "sequence_number": "0120",
-    "timestamp": 603568415.0,
+    "timestamp": 603567773.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -6189,7 +6189,7 @@
   },
   {
     "sequence_number": "0121",
-    "timestamp": 603568793.0,
+    "timestamp": 603568022.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
@@ -6240,7 +6240,7 @@
   },
   {
     "sequence_number": "0122",
-    "timestamp": 603568793.0,
+    "timestamp": 603568022.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -6294,7 +6294,7 @@
   },
   {
     "sequence_number": "0123",
-    "timestamp": 603568793.0,
+    "timestamp": 603568022.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -6339,7 +6339,7 @@
   },
   {
     "sequence_number": "0124",
-    "timestamp": 603568793.0,
+    "timestamp": 603568022.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -6384,7 +6384,7 @@
   },
   {
     "sequence_number": "0125",
-    "timestamp": 603568793.0,
+    "timestamp": 603568022.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -6441,7 +6441,7 @@
   },
   {
     "sequence_number": "0126",
-    "timestamp": 603568793.0,
+    "timestamp": 603568022.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
@@ -6493,7 +6493,7 @@
   },
   {
     "sequence_number": "0127",
-    "timestamp": 603568933.0,
+    "timestamp": 603568099.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -6544,7 +6544,7 @@
   },
   {
     "sequence_number": "0128",
-    "timestamp": 603568933.0,
+    "timestamp": 603568099.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -6593,7 +6593,7 @@
   },
   {
     "sequence_number": "0129",
-    "timestamp": 603569115.0,
+    "timestamp": 603568344.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -6644,7 +6644,7 @@
   },
   {
     "sequence_number": "0130",
-    "timestamp": 603569115.0,
+    "timestamp": 603568344.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -6693,7 +6693,7 @@
   },
   {
     "sequence_number": "0131",
-    "timestamp": 603569689.0,
+    "timestamp": 603568679.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -6744,7 +6744,7 @@
   },
   {
     "sequence_number": "0132",
-    "timestamp": 603569689.0,
+    "timestamp": 603568679.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -6793,7 +6793,7 @@
   },
   {
     "sequence_number": "0133",
-    "timestamp": 603570039.0,
+    "timestamp": 603569145.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -6844,7 +6844,7 @@
   },
   {
     "sequence_number": "0134",
-    "timestamp": 603570039.0,
+    "timestamp": 603569145.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -6893,7 +6893,7 @@
   },
   {
     "sequence_number": "0135",
-    "timestamp": 603570456.0,
+    "timestamp": 603569588.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -6944,7 +6944,7 @@
   },
   {
     "sequence_number": "0136",
-    "timestamp": 603570456.0,
+    "timestamp": 603569588.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -6993,7 +6993,7 @@
   },
   {
     "sequence_number": "0137",
-    "timestamp": 603570668.0,
+    "timestamp": 603569951.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -7044,7 +7044,7 @@
   },
   {
     "sequence_number": "0138",
-    "timestamp": 603570668.0,
+    "timestamp": 603569951.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -7093,7 +7093,7 @@
   },
   {
     "sequence_number": "0139",
-    "timestamp": 603570850.0,
+    "timestamp": 603570546.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -7144,7 +7144,7 @@
   },
   {
     "sequence_number": "0140",
-    "timestamp": 603570850.0,
+    "timestamp": 603570546.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -7193,7 +7193,7 @@
   },
   {
     "sequence_number": "0141",
-    "timestamp": 603571074.0,
+    "timestamp": 603570774.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -7244,7 +7244,7 @@
   },
   {
     "sequence_number": "0142",
-    "timestamp": 603571074.0,
+    "timestamp": 603570774.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -7293,7 +7293,7 @@
   },
   {
     "sequence_number": "0143",
-    "timestamp": 603571647.0,
+    "timestamp": 603571281.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -7350,7 +7350,7 @@
   },
   {
     "sequence_number": "0144",
-    "timestamp": 603571647.0,
+    "timestamp": 603571281.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -7405,7 +7405,7 @@
   },
   {
     "sequence_number": "0145",
-    "timestamp": 603571932.0,
+    "timestamp": 603571589.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -7456,7 +7456,7 @@
   },
   {
     "sequence_number": "0146",
-    "timestamp": 603571932.0,
+    "timestamp": 603571589.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -7505,7 +7505,7 @@
   },
   {
     "sequence_number": "0147",
-    "timestamp": 603572158.0,
+    "timestamp": 603571692.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -7562,7 +7562,7 @@
   },
   {
     "sequence_number": "0148",
-    "timestamp": 603572158.0,
+    "timestamp": 603571692.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -7617,7 +7617,7 @@
   },
   {
     "sequence_number": "0149",
-    "timestamp": 603572385.0,
+    "timestamp": 603571987.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -7674,7 +7674,7 @@
   },
   {
     "sequence_number": "0150",
-    "timestamp": 603572385.0,
+    "timestamp": 603571987.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -7729,7 +7729,7 @@
   },
   {
     "sequence_number": "0151",
-    "timestamp": 603572830.0,
+    "timestamp": 603572533.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -7786,7 +7786,7 @@
   },
   {
     "sequence_number": "0152",
-    "timestamp": 603572830.0,
+    "timestamp": 603572533.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -7841,7 +7841,7 @@
   },
   {
     "sequence_number": "0153",
-    "timestamp": 603573378.0,
+    "timestamp": 603572841.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -7898,7 +7898,7 @@
   },
   {
     "sequence_number": "0154",
-    "timestamp": 603573378.0,
+    "timestamp": 603572841.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -7953,7 +7953,7 @@
   },
   {
     "sequence_number": "0155",
-    "timestamp": 603573698.0,
+    "timestamp": 603573375.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -7998,7 +7998,7 @@
   },
   {
     "sequence_number": "0156",
-    "timestamp": 603573698.0,
+    "timestamp": 603573375.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -8041,7 +8041,7 @@
   },
   {
     "sequence_number": "0157",
-    "timestamp": 603573963.0,
+    "timestamp": 603573929.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -8092,7 +8092,7 @@
   },
   {
     "sequence_number": "0158",
-    "timestamp": 603573963.0,
+    "timestamp": 603573929.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -8141,7 +8141,7 @@
   },
   {
     "sequence_number": "0159",
-    "timestamp": 603574026.0,
+    "timestamp": 603574086.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -8192,7 +8192,7 @@
   },
   {
     "sequence_number": "0160",
-    "timestamp": 603574026.0,
+    "timestamp": 603574086.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -8241,7 +8241,7 @@
   },
   {
     "sequence_number": "0161",
-    "timestamp": 603574088.0,
+    "timestamp": 603574236.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -8298,7 +8298,7 @@
   },
   {
     "sequence_number": "0162",
-    "timestamp": 603574088.0,
+    "timestamp": 603574236.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -8353,7 +8353,7 @@
   },
   {
     "sequence_number": "0163",
-    "timestamp": 603574263.0,
+    "timestamp": 603574551.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -8410,7 +8410,7 @@
   },
   {
     "sequence_number": "0164",
-    "timestamp": 603574263.0,
+    "timestamp": 603574551.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -8465,7 +8465,7 @@
   },
   {
     "sequence_number": "0165",
-    "timestamp": 603574531.0,
+    "timestamp": 603574821.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
@@ -8522,7 +8522,7 @@
   },
   {
     "sequence_number": "0166",
-    "timestamp": 603574531.0,
+    "timestamp": 603574821.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -8577,7 +8577,7 @@
   },
   {
     "sequence_number": "0167",
-    "timestamp": 603574954.0,
+    "timestamp": 603575355.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
@@ -8634,7 +8634,7 @@
   },
   {
     "sequence_number": "0168",
-    "timestamp": 603574954.0,
+    "timestamp": 603575355.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -8689,7 +8689,7 @@
   },
   {
     "sequence_number": "0169",
-    "timestamp": 603575189.0,
+    "timestamp": 603575519.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -8740,7 +8740,7 @@
   },
   {
     "sequence_number": "0170",
-    "timestamp": 603575189.0,
+    "timestamp": 603575519.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -8789,7 +8789,7 @@
   },
   {
     "sequence_number": "0171",
-    "timestamp": 603575654.0,
+    "timestamp": 603575841.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
@@ -8846,7 +8846,7 @@
   },
   {
     "sequence_number": "0172",
-    "timestamp": 603575654.0,
+    "timestamp": 603575841.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -8901,7 +8901,7 @@
   },
   {
     "sequence_number": "0173",
-    "timestamp": 603575846.0,
+    "timestamp": 603576024.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -8958,7 +8958,7 @@
   },
   {
     "sequence_number": "0174",
-    "timestamp": 603575846.0,
+    "timestamp": 603576024.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -9013,7 +9013,7 @@
   },
   {
     "sequence_number": "0175",
-    "timestamp": 603575926.0,
+    "timestamp": 603576533.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -9070,7 +9070,7 @@
   },
   {
     "sequence_number": "0176",
-    "timestamp": 603575926.0,
+    "timestamp": 603576533.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -9125,7 +9125,7 @@
   },
   {
     "sequence_number": "0177",
-    "timestamp": 603576207.0,
+    "timestamp": 603576763.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -9176,7 +9176,7 @@
   },
   {
     "sequence_number": "0178",
-    "timestamp": 603576207.0,
+    "timestamp": 603576763.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -9225,7 +9225,7 @@
   },
   {
     "sequence_number": "0179",
-    "timestamp": 603576287.0,
+    "timestamp": 603577229.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -9282,7 +9282,7 @@
   },
   {
     "sequence_number": "0180",
-    "timestamp": 603576287.0,
+    "timestamp": 603577229.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -9337,7 +9337,7 @@
   },
   {
     "sequence_number": "0181",
-    "timestamp": 603576771.0,
+    "timestamp": 603577710.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -9388,7 +9388,7 @@
   },
   {
     "sequence_number": "0182",
-    "timestamp": 603576771.0,
+    "timestamp": 603577710.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -9437,7 +9437,7 @@
   },
   {
     "sequence_number": "0183",
-    "timestamp": 603576860.0,
+    "timestamp": 603577809.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
@@ -9494,7 +9494,7 @@
   },
   {
     "sequence_number": "0184",
-    "timestamp": 603576860.0,
+    "timestamp": 603577809.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9555,7 +9555,7 @@
   },
   {
     "sequence_number": "0185",
-    "timestamp": 603576860.0,
+    "timestamp": 603577809.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9607,7 +9607,7 @@
   },
   {
     "sequence_number": "0186",
-    "timestamp": 603576860.0,
+    "timestamp": 603577809.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9659,7 +9659,7 @@
   },
   {
     "sequence_number": "0187",
-    "timestamp": 603576860.0,
+    "timestamp": 603577809.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -9730,7 +9730,7 @@
   },
   {
     "sequence_number": "0188",
-    "timestamp": 603576860.0,
+    "timestamp": 603577809.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
@@ -9806,7 +9806,7 @@
   },
   {
     "sequence_number": "0189",
-    "timestamp": 603576961.0,
+    "timestamp": 603578371.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -9857,7 +9857,7 @@
   },
   {
     "sequence_number": "0190",
-    "timestamp": 603576961.0,
+    "timestamp": 603578371.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -9906,7 +9906,7 @@
   },
   {
     "sequence_number": "0191",
-    "timestamp": 603577170.0,
+    "timestamp": 603578514.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -9957,7 +9957,7 @@
   },
   {
     "sequence_number": "0192",
-    "timestamp": 603577170.0,
+    "timestamp": 603578514.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -10006,7 +10006,7 @@
   },
   {
     "sequence_number": "0193",
-    "timestamp": 603577569.0,
+    "timestamp": 603578874.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -10063,7 +10063,7 @@
   },
   {
     "sequence_number": "0194",
-    "timestamp": 603577569.0,
+    "timestamp": 603578874.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -10118,7 +10118,7 @@
   },
   {
     "sequence_number": "0195",
-    "timestamp": 603578053.0,
+    "timestamp": 603579135.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -10175,7 +10175,7 @@
   },
   {
     "sequence_number": "0196",
-    "timestamp": 603578053.0,
+    "timestamp": 603579135.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -10230,7 +10230,7 @@
   },
   {
     "sequence_number": "0197",
-    "timestamp": 603578243.0,
+    "timestamp": 603579248.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -10287,7 +10287,7 @@
   },
   {
     "sequence_number": "0198",
-    "timestamp": 603578243.0,
+    "timestamp": 603579248.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -10342,7 +10342,7 @@
   },
   {
     "sequence_number": "0199",
-    "timestamp": 603578725.0,
+    "timestamp": 603579669.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -10387,7 +10387,7 @@
   },
   {
     "sequence_number": "0200",
-    "timestamp": 603578725.0,
+    "timestamp": 603579669.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -10430,7 +10430,7 @@
   },
   {
     "sequence_number": "0201",
-    "timestamp": 603578961.0,
+    "timestamp": 603580048.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
@@ -10487,7 +10487,7 @@
   },
   {
     "sequence_number": "0202",
-    "timestamp": 603578961.0,
+    "timestamp": 603580048.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -10548,7 +10548,7 @@
   },
   {
     "sequence_number": "0203",
-    "timestamp": 603578961.0,
+    "timestamp": 603580048.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -10600,7 +10600,7 @@
   },
   {
     "sequence_number": "0204",
-    "timestamp": 603578961.0,
+    "timestamp": 603580048.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -10652,7 +10652,7 @@
   },
   {
     "sequence_number": "0205",
-    "timestamp": 603578961.0,
+    "timestamp": 603580048.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -10730,7 +10730,7 @@
   },
   {
     "sequence_number": "0206",
-    "timestamp": 603578961.0,
+    "timestamp": 603580048.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
@@ -10770,7 +10770,7 @@
   },
   {
     "sequence_number": "0207",
-    "timestamp": 603579105.0,
+    "timestamp": 603580471.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
@@ -10821,7 +10821,7 @@
   },
   {
     "sequence_number": "0208",
-    "timestamp": 603579105.0,
+    "timestamp": 603580471.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -10875,7 +10875,7 @@
   },
   {
     "sequence_number": "0209",
-    "timestamp": 603579105.0,
+    "timestamp": 603580471.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -10920,7 +10920,7 @@
   },
   {
     "sequence_number": "0210",
-    "timestamp": 603579105.0,
+    "timestamp": 603580471.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -10965,7 +10965,7 @@
   },
   {
     "sequence_number": "0211",
-    "timestamp": 603579105.0,
+    "timestamp": 603580471.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -11050,7 +11050,7 @@
   },
   {
     "sequence_number": "0212",
-    "timestamp": 603579105.0,
+    "timestamp": 603580471.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
@@ -11114,7 +11114,7 @@
   },
   {
     "sequence_number": "0213",
-    "timestamp": 603579311.0,
+    "timestamp": 603580967.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -11171,7 +11171,7 @@
   },
   {
     "sequence_number": "0214",
-    "timestamp": 603579311.0,
+    "timestamp": 603580967.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -11226,7 +11226,7 @@
   },
   {
     "sequence_number": "0215",
-    "timestamp": 603579502.0,
+    "timestamp": 603581481.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
@@ -11283,7 +11283,7 @@
   },
   {
     "sequence_number": "0216",
-    "timestamp": 603579502.0,
+    "timestamp": 603581481.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -11344,7 +11344,7 @@
   },
   {
     "sequence_number": "0217",
-    "timestamp": 603579502.0,
+    "timestamp": 603581481.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -11396,7 +11396,7 @@
   },
   {
     "sequence_number": "0218",
-    "timestamp": 603579502.0,
+    "timestamp": 603581481.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -11448,7 +11448,7 @@
   },
   {
     "sequence_number": "0219",
-    "timestamp": 603579502.0,
+    "timestamp": 603581481.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -11533,7 +11533,7 @@
   },
   {
     "sequence_number": "0220",
-    "timestamp": 603579502.0,
+    "timestamp": 603581481.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
@@ -11591,7 +11591,7 @@
   },
   {
     "sequence_number": "0221",
-    "timestamp": 603579890.0,
+    "timestamp": 603582066.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -11642,7 +11642,7 @@
   },
   {
     "sequence_number": "0222",
-    "timestamp": 603579890.0,
+    "timestamp": 603582066.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -11691,7 +11691,7 @@
   },
   {
     "sequence_number": "0223",
-    "timestamp": 603580455.0,
+    "timestamp": 603582250.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -11742,7 +11742,7 @@
   },
   {
     "sequence_number": "0224",
-    "timestamp": 603580455.0,
+    "timestamp": 603582250.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -11791,7 +11791,7 @@
   },
   {
     "sequence_number": "0225",
-    "timestamp": 603580969.0,
+    "timestamp": 603582848.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -11842,7 +11842,7 @@
   },
   {
     "sequence_number": "0226",
-    "timestamp": 603580969.0,
+    "timestamp": 603582848.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -11891,7 +11891,7 @@
   },
   {
     "sequence_number": "0227",
-    "timestamp": 603581568.0,
+    "timestamp": 603583244.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -11948,7 +11948,7 @@
   },
   {
     "sequence_number": "0228",
-    "timestamp": 603581568.0,
+    "timestamp": 603583244.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -12003,7 +12003,7 @@
   },
   {
     "sequence_number": "0229",
-    "timestamp": 603581852.0,
+    "timestamp": 603583377.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -12054,7 +12054,7 @@
   },
   {
     "sequence_number": "0230",
-    "timestamp": 603581852.0,
+    "timestamp": 603583377.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -12103,7 +12103,7 @@
   },
   {
     "sequence_number": "0231",
-    "timestamp": 603581914.0,
+    "timestamp": 603583795.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -12148,7 +12148,7 @@
   },
   {
     "sequence_number": "0232",
-    "timestamp": 603581914.0,
+    "timestamp": 603583795.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -12191,7 +12191,7 @@
   },
   {
     "sequence_number": "0233",
-    "timestamp": 603582024.0,
+    "timestamp": 603584165.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -12242,7 +12242,7 @@
   },
   {
     "sequence_number": "0234",
-    "timestamp": 603582024.0,
+    "timestamp": 603584165.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -12291,7 +12291,7 @@
   },
   {
     "sequence_number": "0235",
-    "timestamp": 603582526.0,
+    "timestamp": 603584665.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
@@ -12348,7 +12348,7 @@
   },
   {
     "sequence_number": "0236",
-    "timestamp": 603582526.0,
+    "timestamp": 603584665.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -12403,7 +12403,7 @@
   },
   {
     "sequence_number": "0237",
-    "timestamp": 603582694.0,
+    "timestamp": 603584941.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -12454,7 +12454,7 @@
   },
   {
     "sequence_number": "0238",
-    "timestamp": 603582694.0,
+    "timestamp": 603584941.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -12503,7 +12503,7 @@
   },
   {
     "sequence_number": "0239",
-    "timestamp": 603583283.0,
+    "timestamp": 603585406.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -12554,7 +12554,7 @@
   },
   {
     "sequence_number": "0240",
-    "timestamp": 603583283.0,
+    "timestamp": 603585406.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -12603,7 +12603,7 @@
   },
   {
     "sequence_number": "0241",
-    "timestamp": 603583645.0,
+    "timestamp": 603585996.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
@@ -12654,7 +12654,7 @@
   },
   {
     "sequence_number": "0242",
-    "timestamp": 603583645.0,
+    "timestamp": 603585996.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12708,7 +12708,7 @@
   },
   {
     "sequence_number": "0243",
-    "timestamp": 603583645.0,
+    "timestamp": 603585996.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12753,7 +12753,7 @@
   },
   {
     "sequence_number": "0244",
-    "timestamp": 603583645.0,
+    "timestamp": 603585996.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12798,7 +12798,7 @@
   },
   {
     "sequence_number": "0245",
-    "timestamp": 603583645.0,
+    "timestamp": 603585996.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -12883,7 +12883,7 @@
   },
   {
     "sequence_number": "0246",
-    "timestamp": 603583645.0,
+    "timestamp": 603585996.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
@@ -12941,7 +12941,7 @@
   },
   {
     "sequence_number": "0247",
-    "timestamp": 603583717.0,
+    "timestamp": 603586492.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -12992,7 +12992,7 @@
   },
   {
     "sequence_number": "0248",
-    "timestamp": 603583717.0,
+    "timestamp": 603586492.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -13041,7 +13041,7 @@
   },
   {
     "sequence_number": "0249",
-    "timestamp": 603584046.0,
+    "timestamp": 603586686.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -13092,7 +13092,7 @@
   },
   {
     "sequence_number": "0250",
-    "timestamp": 603584046.0,
+    "timestamp": 603586686.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -13141,7 +13141,7 @@
   },
   {
     "sequence_number": "0251",
-    "timestamp": 603584234.0,
+    "timestamp": 603586826.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -13192,7 +13192,7 @@
   },
   {
     "sequence_number": "0252",
-    "timestamp": 603584234.0,
+    "timestamp": 603586826.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -13241,7 +13241,7 @@
   },
   {
     "sequence_number": "0253",
-    "timestamp": 603584632.0,
+    "timestamp": 603587261.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -13292,7 +13292,7 @@
   },
   {
     "sequence_number": "0254",
-    "timestamp": 603584632.0,
+    "timestamp": 603587261.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -13341,7 +13341,7 @@
   },
   {
     "sequence_number": "0255",
-    "timestamp": 603585163.0,
+    "timestamp": 603587735.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -13392,7 +13392,7 @@
   },
   {
     "sequence_number": "0256",
-    "timestamp": 603585163.0,
+    "timestamp": 603587735.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -13441,7 +13441,7 @@
   },
   {
     "sequence_number": "0257",
-    "timestamp": 603585505.0,
+    "timestamp": 603588121.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -13492,7 +13492,7 @@
   },
   {
     "sequence_number": "0258",
-    "timestamp": 603585505.0,
+    "timestamp": 603588121.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -13541,7 +13541,7 @@
   },
   {
     "sequence_number": "0259",
-    "timestamp": 603585959.0,
+    "timestamp": 603588718.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -13598,7 +13598,7 @@
   },
   {
     "sequence_number": "0260",
-    "timestamp": 603585959.0,
+    "timestamp": 603588718.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -13653,7 +13653,7 @@
   },
   {
     "sequence_number": "0261",
-    "timestamp": 603586331.0,
+    "timestamp": 603589139.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -13710,7 +13710,7 @@
   },
   {
     "sequence_number": "0262",
-    "timestamp": 603586331.0,
+    "timestamp": 603589139.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -13765,7 +13765,7 @@
   },
   {
     "sequence_number": "0263",
-    "timestamp": 603586451.0,
+    "timestamp": 603589473.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
@@ -13810,7 +13810,7 @@
   },
   {
     "sequence_number": "0264",
-    "timestamp": 603586451.0,
+    "timestamp": 603589473.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -13857,7 +13857,7 @@
   },
   {
     "sequence_number": "0265",
-    "timestamp": 603586451.0,
+    "timestamp": 603589473.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -13895,7 +13895,7 @@
   },
   {
     "sequence_number": "0266",
-    "timestamp": 603586451.0,
+    "timestamp": 603589473.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -13933,7 +13933,7 @@
   },
   {
     "sequence_number": "0267",
-    "timestamp": 603586451.0,
+    "timestamp": 603589473.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -14018,7 +14018,7 @@
   },
   {
     "sequence_number": "0268",
-    "timestamp": 603586451.0,
+    "timestamp": 603589473.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
@@ -14058,7 +14058,7 @@
   },
   {
     "sequence_number": "0269",
-    "timestamp": 603586717.0,
+    "timestamp": 603589829.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -14109,7 +14109,7 @@
   },
   {
     "sequence_number": "0270",
-    "timestamp": 603586717.0,
+    "timestamp": 603589829.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -14158,7 +14158,7 @@
   },
   {
     "sequence_number": "0271",
-    "timestamp": 603587052.0,
+    "timestamp": 603590306.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -14221,7 +14221,7 @@
   },
   {
     "sequence_number": "0272",
-    "timestamp": 603587052.0,
+    "timestamp": 603590306.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -14282,7 +14282,7 @@
   },
   {
     "sequence_number": "0273",
-    "timestamp": 603587521.0,
+    "timestamp": 603590794.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
@@ -14339,7 +14339,7 @@
   },
   {
     "sequence_number": "0274",
-    "timestamp": 603587521.0,
+    "timestamp": 603590794.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -14400,7 +14400,7 @@
   },
   {
     "sequence_number": "0275",
-    "timestamp": 603587521.0,
+    "timestamp": 603590794.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -14452,7 +14452,7 @@
   },
   {
     "sequence_number": "0276",
-    "timestamp": 603587521.0,
+    "timestamp": 603590794.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -14504,7 +14504,7 @@
   },
   {
     "sequence_number": "0277",
-    "timestamp": 603587521.0,
+    "timestamp": 603590794.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -14589,7 +14589,7 @@
   },
   {
     "sequence_number": "0278",
-    "timestamp": 603587521.0,
+    "timestamp": 603590794.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
@@ -14623,7 +14623,7 @@
   },
   {
     "sequence_number": "0279",
-    "timestamp": 603587727.0,
+    "timestamp": 603591039.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -14674,7 +14674,7 @@
   },
   {
     "sequence_number": "0280",
-    "timestamp": 603587727.0,
+    "timestamp": 603591039.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -14723,7 +14723,7 @@
   },
   {
     "sequence_number": "0281",
-    "timestamp": 603588164.0,
+    "timestamp": 603591266.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -14774,7 +14774,7 @@
   },
   {
     "sequence_number": "0282",
-    "timestamp": 603588164.0,
+    "timestamp": 603591266.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -14823,7 +14823,7 @@
   },
   {
     "sequence_number": "0283",
-    "timestamp": 603588386.0,
+    "timestamp": 603591547.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -14880,7 +14880,7 @@
   },
   {
     "sequence_number": "0284",
-    "timestamp": 603588386.0,
+    "timestamp": 603591547.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -14935,7 +14935,7 @@
   },
   {
     "sequence_number": "0285",
-    "timestamp": 603588960.0,
+    "timestamp": 603591761.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -14992,7 +14992,7 @@
   },
   {
     "sequence_number": "0286",
-    "timestamp": 603588960.0,
+    "timestamp": 603591761.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -15047,7 +15047,7 @@
   },
   {
     "sequence_number": "0287",
-    "timestamp": 603589207.0,
+    "timestamp": 603591900.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -15104,7 +15104,7 @@
   },
   {
     "sequence_number": "0288",
-    "timestamp": 603589207.0,
+    "timestamp": 603591900.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -15159,7 +15159,7 @@
   },
   {
     "sequence_number": "0289",
-    "timestamp": 603589369.0,
+    "timestamp": 603592295.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -15216,7 +15216,7 @@
   },
   {
     "sequence_number": "0290",
-    "timestamp": 603589369.0,
+    "timestamp": 603592295.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -15271,7 +15271,7 @@
   },
   {
     "sequence_number": "0291",
-    "timestamp": 603589471.0,
+    "timestamp": 603592807.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
@@ -15322,7 +15322,7 @@
   },
   {
     "sequence_number": "0292",
-    "timestamp": 603589471.0,
+    "timestamp": 603592807.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -15376,7 +15376,7 @@
   },
   {
     "sequence_number": "0293",
-    "timestamp": 603589471.0,
+    "timestamp": 603592807.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -15421,7 +15421,7 @@
   },
   {
     "sequence_number": "0294",
-    "timestamp": 603589471.0,
+    "timestamp": 603592807.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -15466,7 +15466,7 @@
   },
   {
     "sequence_number": "0295",
-    "timestamp": 603589471.0,
+    "timestamp": 603592807.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -15551,7 +15551,7 @@
   },
   {
     "sequence_number": "0296",
-    "timestamp": 603589471.0,
+    "timestamp": 603592807.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
@@ -15633,7 +15633,7 @@
   },
   {
     "sequence_number": "0297",
-    "timestamp": 603589903.0,
+    "timestamp": 603593275.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -15684,7 +15684,7 @@
   },
   {
     "sequence_number": "0298",
-    "timestamp": 603589903.0,
+    "timestamp": 603593275.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -15733,7 +15733,7 @@
   },
   {
     "sequence_number": "0299",
-    "timestamp": 603590311.0,
+    "timestamp": 603593468.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -15784,7 +15784,7 @@
   },
   {
     "sequence_number": "0300",
-    "timestamp": 603590311.0,
+    "timestamp": 603593468.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -15833,7 +15833,7 @@
   },
   {
     "sequence_number": "0301",
-    "timestamp": 603590483.0,
+    "timestamp": 603593759.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -15896,7 +15896,7 @@
   },
   {
     "sequence_number": "0302",
-    "timestamp": 603590483.0,
+    "timestamp": 603593759.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -15957,7 +15957,7 @@
   },
   {
     "sequence_number": "0303",
-    "timestamp": 603590627.0,
+    "timestamp": 603593970.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
@@ -16014,7 +16014,7 @@
   },
   {
     "sequence_number": "0304",
-    "timestamp": 603590627.0,
+    "timestamp": 603593970.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -16069,7 +16069,7 @@
   },
   {
     "sequence_number": "0305",
-    "timestamp": 603591002.0,
+    "timestamp": 603594307.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -16126,7 +16126,7 @@
   },
   {
     "sequence_number": "0306",
-    "timestamp": 603591002.0,
+    "timestamp": 603594307.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -16181,7 +16181,7 @@
   },
   {
     "sequence_number": "0307",
-    "timestamp": 603591577.0,
+    "timestamp": 603594884.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -16232,7 +16232,7 @@
   },
   {
     "sequence_number": "0308",
-    "timestamp": 603591577.0,
+    "timestamp": 603594884.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -16281,7 +16281,7 @@
   },
   {
     "sequence_number": "0309",
-    "timestamp": 603592029.0,
+    "timestamp": 603595272.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -16332,7 +16332,7 @@
   },
   {
     "sequence_number": "0310",
-    "timestamp": 603592029.0,
+    "timestamp": 603595272.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -16381,7 +16381,7 @@
   },
   {
     "sequence_number": "0311",
-    "timestamp": 603592389.0,
+    "timestamp": 603595717.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -16438,7 +16438,7 @@
   },
   {
     "sequence_number": "0312",
-    "timestamp": 603592389.0,
+    "timestamp": 603595717.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -16493,7 +16493,7 @@
   },
   {
     "sequence_number": "0313",
-    "timestamp": 603592855.0,
+    "timestamp": 603596276.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -16544,7 +16544,7 @@
   },
   {
     "sequence_number": "0314",
-    "timestamp": 603592855.0,
+    "timestamp": 603596276.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -16593,7 +16593,7 @@
   },
   {
     "sequence_number": "0315",
-    "timestamp": 603593453.0,
+    "timestamp": 603596803.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -16644,7 +16644,7 @@
   },
   {
     "sequence_number": "0316",
-    "timestamp": 603593453.0,
+    "timestamp": 603596803.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -16693,7 +16693,7 @@
   },
   {
     "sequence_number": "0317",
-    "timestamp": 603593631.0,
+    "timestamp": 603597394.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -16750,7 +16750,7 @@
   },
   {
     "sequence_number": "0318",
-    "timestamp": 603593631.0,
+    "timestamp": 603597394.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -16805,7 +16805,7 @@
   },
   {
     "sequence_number": "0319",
-    "timestamp": 603593981.0,
+    "timestamp": 603597802.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
@@ -16862,7 +16862,7 @@
   },
   {
     "sequence_number": "0320",
-    "timestamp": 603593981.0,
+    "timestamp": 603597802.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -16917,7 +16917,7 @@
   },
   {
     "sequence_number": "0321",
-    "timestamp": 603594074.0,
+    "timestamp": 603597877.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -16968,7 +16968,7 @@
   },
   {
     "sequence_number": "0322",
-    "timestamp": 603594074.0,
+    "timestamp": 603597877.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -17017,7 +17017,7 @@
   },
   {
     "sequence_number": "0323",
-    "timestamp": 603594298.0,
+    "timestamp": 603598011.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
@@ -17062,7 +17062,7 @@
   },
   {
     "sequence_number": "0324",
-    "timestamp": 603594298.0,
+    "timestamp": 603598011.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -17109,7 +17109,7 @@
   },
   {
     "sequence_number": "0325",
-    "timestamp": 603594298.0,
+    "timestamp": 603598011.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -17147,7 +17147,7 @@
   },
   {
     "sequence_number": "0326",
-    "timestamp": 603594298.0,
+    "timestamp": 603598011.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -17185,7 +17185,7 @@
   },
   {
     "sequence_number": "0327",
-    "timestamp": 603594298.0,
+    "timestamp": 603598011.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -17270,7 +17270,7 @@
   },
   {
     "sequence_number": "0328",
-    "timestamp": 603594298.0,
+    "timestamp": 603598011.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
@@ -17310,7 +17310,7 @@
   },
   {
     "sequence_number": "0329",
-    "timestamp": 603594495.0,
+    "timestamp": 603598316.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
@@ -17361,7 +17361,7 @@
   },
   {
     "sequence_number": "0330",
-    "timestamp": 603594495.0,
+    "timestamp": 603598316.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -17415,7 +17415,7 @@
   },
   {
     "sequence_number": "0331",
-    "timestamp": 603594495.0,
+    "timestamp": 603598316.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -17460,7 +17460,7 @@
   },
   {
     "sequence_number": "0332",
-    "timestamp": 603594495.0,
+    "timestamp": 603598316.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -17505,7 +17505,7 @@
   },
   {
     "sequence_number": "0333",
-    "timestamp": 603594495.0,
+    "timestamp": 603598316.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -17590,7 +17590,7 @@
   },
   {
     "sequence_number": "0334",
-    "timestamp": 603594495.0,
+    "timestamp": 603598316.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
@@ -17648,7 +17648,7 @@
   },
   {
     "sequence_number": "0335",
-    "timestamp": 603594648.0,
+    "timestamp": 603598633.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -17699,7 +17699,7 @@
   },
   {
     "sequence_number": "0336",
-    "timestamp": 603594648.0,
+    "timestamp": 603598633.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -17748,7 +17748,7 @@
   },
   {
     "sequence_number": "0337",
-    "timestamp": 603595159.0,
+    "timestamp": 603598921.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -17799,7 +17799,7 @@
   },
   {
     "sequence_number": "0338",
-    "timestamp": 603595159.0,
+    "timestamp": 603598921.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -17848,7 +17848,7 @@
   },
   {
     "sequence_number": "0339",
-    "timestamp": 603595303.0,
+    "timestamp": 603598987.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
@@ -17899,7 +17899,7 @@
   },
   {
     "sequence_number": "0340",
-    "timestamp": 603595303.0,
+    "timestamp": 603598987.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -17953,7 +17953,7 @@
   },
   {
     "sequence_number": "0341",
-    "timestamp": 603595303.0,
+    "timestamp": 603598987.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -17998,7 +17998,7 @@
   },
   {
     "sequence_number": "0342",
-    "timestamp": 603595303.0,
+    "timestamp": 603598987.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -18043,7 +18043,7 @@
   },
   {
     "sequence_number": "0343",
-    "timestamp": 603595303.0,
+    "timestamp": 603598987.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -18128,7 +18128,7 @@
   },
   {
     "sequence_number": "0344",
-    "timestamp": 603595303.0,
+    "timestamp": 603598987.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
@@ -18228,7 +18228,7 @@
   },
   {
     "sequence_number": "0345",
-    "timestamp": 603595762.0,
+    "timestamp": 603599431.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -18279,7 +18279,7 @@
   },
   {
     "sequence_number": "0346",
-    "timestamp": 603595762.0,
+    "timestamp": 603599431.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -18328,7 +18328,7 @@
   },
   {
     "sequence_number": "0347",
-    "timestamp": 603596344.0,
+    "timestamp": 603599505.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -18373,7 +18373,7 @@
   },
   {
     "sequence_number": "0348",
-    "timestamp": 603596344.0,
+    "timestamp": 603599505.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -18416,7 +18416,7 @@
   },
   {
     "sequence_number": "0349",
-    "timestamp": 603596754.0,
+    "timestamp": 603599598.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -18467,7 +18467,7 @@
   },
   {
     "sequence_number": "0350",
-    "timestamp": 603596754.0,
+    "timestamp": 603599598.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -18516,7 +18516,7 @@
   },
   {
     "sequence_number": "0351",
-    "timestamp": 603597228.0,
+    "timestamp": 603600068.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -18579,7 +18579,7 @@
   },
   {
     "sequence_number": "0352",
-    "timestamp": 603597228.0,
+    "timestamp": 603600068.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -18640,7 +18640,7 @@
   },
   {
     "sequence_number": "0353",
-    "timestamp": 603597311.0,
+    "timestamp": 603600356.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -18697,7 +18697,7 @@
   },
   {
     "sequence_number": "0354",
-    "timestamp": 603597311.0,
+    "timestamp": 603600356.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -18752,7 +18752,7 @@
   },
   {
     "sequence_number": "0355",
-    "timestamp": 603597628.0,
+    "timestamp": 603600419.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -18797,7 +18797,7 @@
   },
   {
     "sequence_number": "0356",
-    "timestamp": 603597628.0,
+    "timestamp": 603600419.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -18840,7 +18840,7 @@
   },
   {
     "sequence_number": "0357",
-    "timestamp": 603597724.0,
+    "timestamp": 603600850.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -18885,7 +18885,7 @@
   },
   {
     "sequence_number": "0358",
-    "timestamp": 603597724.0,
+    "timestamp": 603600850.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -18928,7 +18928,7 @@
   },
   {
     "sequence_number": "0359",
-    "timestamp": 603598250.0,
+    "timestamp": 603601090.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -18985,7 +18985,7 @@
   },
   {
     "sequence_number": "0360",
-    "timestamp": 603598250.0,
+    "timestamp": 603601090.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -19040,7 +19040,7 @@
   },
   {
     "sequence_number": "0361",
-    "timestamp": 603598334.0,
+    "timestamp": 603601199.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -19103,7 +19103,7 @@
   },
   {
     "sequence_number": "0362",
-    "timestamp": 603598334.0,
+    "timestamp": 603601199.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -19164,7 +19164,7 @@
   },
   {
     "sequence_number": "0363",
-    "timestamp": 603598902.0,
+    "timestamp": 603601530.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -19209,7 +19209,7 @@
   },
   {
     "sequence_number": "0364",
-    "timestamp": 603598902.0,
+    "timestamp": 603601530.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -19252,7 +19252,7 @@
   },
   {
     "sequence_number": "0365",
-    "timestamp": 603599367.0,
+    "timestamp": 603601752.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
@@ -19309,7 +19309,7 @@
   },
   {
     "sequence_number": "0366",
-    "timestamp": 603599367.0,
+    "timestamp": 603601752.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -19370,7 +19370,7 @@
   },
   {
     "sequence_number": "0367",
-    "timestamp": 603599367.0,
+    "timestamp": 603601752.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -19422,7 +19422,7 @@
   },
   {
     "sequence_number": "0368",
-    "timestamp": 603599367.0,
+    "timestamp": 603601752.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -19474,7 +19474,7 @@
   },
   {
     "sequence_number": "0369",
-    "timestamp": 603599367.0,
+    "timestamp": 603601752.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -19559,7 +19559,7 @@
   },
   {
     "sequence_number": "0370",
-    "timestamp": 603599367.0,
+    "timestamp": 603601752.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
@@ -19635,7 +19635,7 @@
   },
   {
     "sequence_number": "0371",
-    "timestamp": 603599818.0,
+    "timestamp": 603601822.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -19692,7 +19692,7 @@
   },
   {
     "sequence_number": "0372",
-    "timestamp": 603599818.0,
+    "timestamp": 603601822.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -19747,7 +19747,7 @@
   },
   {
     "sequence_number": "0373",
-    "timestamp": 603600296.0,
+    "timestamp": 603601938.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -19804,7 +19804,7 @@
   },
   {
     "sequence_number": "0374",
-    "timestamp": 603600296.0,
+    "timestamp": 603601938.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -19859,7 +19859,7 @@
   },
   {
     "sequence_number": "0375",
-    "timestamp": 603600860.0,
+    "timestamp": 603602330.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
@@ -19922,7 +19922,7 @@
   },
   {
     "sequence_number": "0376",
-    "timestamp": 603600860.0,
+    "timestamp": 603602330.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -19990,7 +19990,7 @@
   },
   {
     "sequence_number": "0377",
-    "timestamp": 603600860.0,
+    "timestamp": 603602330.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -20049,7 +20049,7 @@
   },
   {
     "sequence_number": "0378",
-    "timestamp": 603600860.0,
+    "timestamp": 603602330.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -20108,7 +20108,7 @@
   },
   {
     "sequence_number": "0379",
-    "timestamp": 603600860.0,
+    "timestamp": 603602330.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -20207,7 +20207,7 @@
   },
   {
     "sequence_number": "0380",
-    "timestamp": 603600860.0,
+    "timestamp": 603602330.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
@@ -20259,7 +20259,7 @@
   },
   {
     "sequence_number": "0381",
-    "timestamp": 603601388.0,
+    "timestamp": 603602527.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -20316,7 +20316,7 @@
   },
   {
     "sequence_number": "0382",
-    "timestamp": 603601388.0,
+    "timestamp": 603602527.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -20371,7 +20371,7 @@
   },
   {
     "sequence_number": "0383",
-    "timestamp": 603601488.0,
+    "timestamp": 603602760.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -20428,7 +20428,7 @@
   },
   {
     "sequence_number": "0384",
-    "timestamp": 603601488.0,
+    "timestamp": 603602760.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -20483,7 +20483,7 @@
   },
   {
     "sequence_number": "0385",
-    "timestamp": 603601601.0,
+    "timestamp": 603603006.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -20528,7 +20528,7 @@
   },
   {
     "sequence_number": "0386",
-    "timestamp": 603601601.0,
+    "timestamp": 603603006.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -20571,7 +20571,7 @@
   },
   {
     "sequence_number": "0387",
-    "timestamp": 603602022.0,
+    "timestamp": 603603108.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
@@ -20628,7 +20628,7 @@
   },
   {
     "sequence_number": "0388",
-    "timestamp": 603602022.0,
+    "timestamp": 603603108.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -20689,7 +20689,7 @@
   },
   {
     "sequence_number": "0389",
-    "timestamp": 603602022.0,
+    "timestamp": 603603108.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -20741,7 +20741,7 @@
   },
   {
     "sequence_number": "0390",
-    "timestamp": 603602022.0,
+    "timestamp": 603603108.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -20793,7 +20793,7 @@
   },
   {
     "sequence_number": "0391",
-    "timestamp": 603602022.0,
+    "timestamp": 603603108.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -20892,7 +20892,7 @@
   },
   {
     "sequence_number": "0392",
-    "timestamp": 603602022.0,
+    "timestamp": 603603108.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
@@ -20968,7 +20968,7 @@
   },
   {
     "sequence_number": "0393",
-    "timestamp": 603602369.0,
+    "timestamp": 603603369.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
@@ -21019,7 +21019,7 @@
   },
   {
     "sequence_number": "0394",
-    "timestamp": 603602369.0,
+    "timestamp": 603603369.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -21073,7 +21073,7 @@
   },
   {
     "sequence_number": "0395",
-    "timestamp": 603602369.0,
+    "timestamp": 603603369.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -21118,7 +21118,7 @@
   },
   {
     "sequence_number": "0396",
-    "timestamp": 603602369.0,
+    "timestamp": 603603369.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -21163,7 +21163,7 @@
   },
   {
     "sequence_number": "0397",
-    "timestamp": 603602369.0,
+    "timestamp": 603603369.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -21269,7 +21269,7 @@
   },
   {
     "sequence_number": "0398",
-    "timestamp": 603602369.0,
+    "timestamp": 603603369.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
@@ -21339,7 +21339,7 @@
   },
   {
     "sequence_number": "0399",
-    "timestamp": 603602525.0,
+    "timestamp": 603603437.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -21384,7 +21384,7 @@
   },
   {
     "sequence_number": "0400",
-    "timestamp": 603602525.0,
+    "timestamp": 603603437.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -21427,7 +21427,7 @@
   },
   {
     "sequence_number": "0401",
-    "timestamp": 603602729.0,
+    "timestamp": 603603846.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -21472,7 +21472,7 @@
   },
   {
     "sequence_number": "0402",
-    "timestamp": 603602729.0,
+    "timestamp": 603603846.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -21515,7 +21515,7 @@
   },
   {
     "sequence_number": "0403",
-    "timestamp": 603603147.0,
+    "timestamp": 603604247.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -21572,7 +21572,7 @@
   },
   {
     "sequence_number": "0404",
-    "timestamp": 603603147.0,
+    "timestamp": 603604247.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -21627,7 +21627,7 @@
   },
   {
     "sequence_number": "0405",
-    "timestamp": 603603311.0,
+    "timestamp": 603604761.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -21672,7 +21672,7 @@
   },
   {
     "sequence_number": "0406",
-    "timestamp": 603603311.0,
+    "timestamp": 603604761.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -21715,7 +21715,7 @@
   },
   {
     "sequence_number": "0407",
-    "timestamp": 603603760.0,
+    "timestamp": 603605109.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -21760,7 +21760,7 @@
   },
   {
     "sequence_number": "0408",
-    "timestamp": 603603760.0,
+    "timestamp": 603605109.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -21803,7 +21803,7 @@
   },
   {
     "sequence_number": "0409",
-    "timestamp": 603603850.0,
+    "timestamp": 603605188.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -21848,7 +21848,7 @@
   },
   {
     "sequence_number": "0410",
-    "timestamp": 603603850.0,
+    "timestamp": 603605188.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -21891,7 +21891,7 @@
   },
   {
     "sequence_number": "0411",
-    "timestamp": 603604335.0,
+    "timestamp": 603605765.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -21948,7 +21948,7 @@
   },
   {
     "sequence_number": "0412",
-    "timestamp": 603604335.0,
+    "timestamp": 603605765.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -22003,7 +22003,7 @@
   },
   {
     "sequence_number": "0413",
-    "timestamp": 603604648.0,
+    "timestamp": 603606117.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -22048,7 +22048,7 @@
   },
   {
     "sequence_number": "0414",
-    "timestamp": 603604648.0,
+    "timestamp": 603606117.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -22091,7 +22091,7 @@
   },
   {
     "sequence_number": "0415",
-    "timestamp": 603605201.0,
+    "timestamp": 603606530.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -22136,7 +22136,7 @@
   },
   {
     "sequence_number": "0416",
-    "timestamp": 603605201.0,
+    "timestamp": 603606530.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -22179,7 +22179,7 @@
   },
   {
     "sequence_number": "0417",
-    "timestamp": 603605459.0,
+    "timestamp": 603606829.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -22236,7 +22236,7 @@
   },
   {
     "sequence_number": "0418",
-    "timestamp": 603605459.0,
+    "timestamp": 603606829.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -22291,7 +22291,7 @@
   },
   {
     "sequence_number": "0419",
-    "timestamp": 603605924.0,
+    "timestamp": 603607078.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
@@ -22336,7 +22336,7 @@
   },
   {
     "sequence_number": "0420",
-    "timestamp": 603605924.0,
+    "timestamp": 603607078.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -22383,7 +22383,7 @@
   },
   {
     "sequence_number": "0421",
-    "timestamp": 603605924.0,
+    "timestamp": 603607078.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -22421,7 +22421,7 @@
   },
   {
     "sequence_number": "0422",
-    "timestamp": 603605924.0,
+    "timestamp": 603607078.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -22459,7 +22459,7 @@
   },
   {
     "sequence_number": "0423",
-    "timestamp": 603605924.0,
+    "timestamp": 603607078.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -22565,7 +22565,7 @@
   },
   {
     "sequence_number": "0424",
-    "timestamp": 603605924.0,
+    "timestamp": 603607078.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
@@ -22677,7 +22677,7 @@
   },
   {
     "sequence_number": "0425",
-    "timestamp": 603606231.0,
+    "timestamp": 603607626.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -22734,7 +22734,7 @@
   },
   {
     "sequence_number": "0426",
-    "timestamp": 603606231.0,
+    "timestamp": 603607626.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -22789,7 +22789,7 @@
   },
   {
     "sequence_number": "0427",
-    "timestamp": 603606545.0,
+    "timestamp": 603608046.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -22840,7 +22840,7 @@
   },
   {
     "sequence_number": "0428",
-    "timestamp": 603606545.0,
+    "timestamp": 603608046.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -22889,7 +22889,7 @@
   },
   {
     "sequence_number": "0429",
-    "timestamp": 603606964.0,
+    "timestamp": 603608502.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
@@ -22940,7 +22940,7 @@
   },
   {
     "sequence_number": "0430",
-    "timestamp": 603606964.0,
+    "timestamp": 603608502.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -22994,7 +22994,7 @@
   },
   {
     "sequence_number": "0431",
-    "timestamp": 603606964.0,
+    "timestamp": 603608502.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -23039,7 +23039,7 @@
   },
   {
     "sequence_number": "0432",
-    "timestamp": 603606964.0,
+    "timestamp": 603608502.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -23084,7 +23084,7 @@
   },
   {
     "sequence_number": "0433",
-    "timestamp": 603606964.0,
+    "timestamp": 603608502.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -23197,7 +23197,7 @@
   },
   {
     "sequence_number": "0434",
-    "timestamp": 603606964.0,
+    "timestamp": 603608502.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
@@ -23243,7 +23243,7 @@
   },
   {
     "sequence_number": "0435",
-    "timestamp": 603607512.0,
+    "timestamp": 603609008.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
@@ -23300,7 +23300,7 @@
   },
   {
     "sequence_number": "0436",
-    "timestamp": 603607512.0,
+    "timestamp": 603609008.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -23361,7 +23361,7 @@
   },
   {
     "sequence_number": "0437",
-    "timestamp": 603607512.0,
+    "timestamp": 603609008.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -23413,7 +23413,7 @@
   },
   {
     "sequence_number": "0438",
-    "timestamp": 603607512.0,
+    "timestamp": 603609008.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -23465,7 +23465,7 @@
   },
   {
     "sequence_number": "0439",
-    "timestamp": 603607512.0,
+    "timestamp": 603609008.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -23592,7 +23592,7 @@
   },
   {
     "sequence_number": "0440",
-    "timestamp": 603607512.0,
+    "timestamp": 603609008.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
@@ -23632,7 +23632,7 @@
   },
   {
     "sequence_number": "0441",
-    "timestamp": 603607901.0,
+    "timestamp": 603609319.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
@@ -23683,7 +23683,7 @@
   },
   {
     "sequence_number": "0442",
-    "timestamp": 603607901.0,
+    "timestamp": 603609319.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -23737,7 +23737,7 @@
   },
   {
     "sequence_number": "0443",
-    "timestamp": 603607901.0,
+    "timestamp": 603609319.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -23782,7 +23782,7 @@
   },
   {
     "sequence_number": "0444",
-    "timestamp": 603607901.0,
+    "timestamp": 603609319.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -23827,7 +23827,7 @@
   },
   {
     "sequence_number": "0445",
-    "timestamp": 603607901.0,
+    "timestamp": 603609319.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -23954,7 +23954,7 @@
   },
   {
     "sequence_number": "0446",
-    "timestamp": 603607901.0,
+    "timestamp": 603609319.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
@@ -24000,7 +24000,7 @@
   },
   {
     "sequence_number": "0447",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
@@ -24057,7 +24057,7 @@
   },
   {
     "sequence_number": "0448",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -24118,7 +24118,7 @@
   },
   {
     "sequence_number": "0449",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -24170,7 +24170,7 @@
   },
   {
     "sequence_number": "0450",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RE_S",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -24222,7 +24222,7 @@
   },
   {
     "sequence_number": "0451",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
@@ -24349,7 +24349,7 @@
   },
   {
     "sequence_number": "0452",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
@@ -24479,7 +24479,7 @@
   },
   {
     "sequence_number": "0453",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RN_V",
     "level": "NATIONAL",
     "by_party": [
@@ -24632,7 +24632,7 @@
   },
   {
     "sequence_number": "0454",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RN_VS",
     "level": "NATIONAL",
     "by_party": [
@@ -24785,7 +24785,7 @@
   },
   {
     "sequence_number": "0455",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RN_VSN",
     "level": "NATIONAL",
     "by_party": [
@@ -24938,7 +24938,7 @@
   },
   {
     "sequence_number": "0456",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RN_NC",
     "level": "NATIONAL",
     "by_candidate": [
@@ -25120,7 +25120,7 @@
   },
   {
     "sequence_number": "0457",
-    "timestamp": 603607982.0,
+    "timestamp": 603609843.0,
     "type": "RN_SCNC",
     "level": "NATIONAL",
     "by_candidate": [
