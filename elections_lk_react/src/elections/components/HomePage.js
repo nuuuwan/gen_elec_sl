@@ -69,7 +69,7 @@ export default class HomePage extends Component {
       <div id="HomePage" key="HomePage">
         <div id="home-page-header">
           <YearSelector onChangeYear={onChangeYear} selectedYear={year}/>
-          <h1>{`${year} Sri Lankan Parlimentary Elections`}</h1>
+          <h1>{`${year} Sri Lankan Parliamentary Elections`}</h1>
           <p className="p-download" onClick={onDownloadResults}>
             Download Results as JSON
           </p>
