@@ -1,5 +1,5 @@
 
-import PARTY_TO_H from '../constants/PARTY_TO_H.js';
+import PARTY_TO_H, {PARTY_TO_L} from '../constants/PARTY_TO_H.js';
 import PARTY_CODE_TO_INFO from '../constants/PARTY_CODE_TO_INFO.js';
 
 import {hsla} from '../utils/color.js';
@@ -37,6 +37,10 @@ export function getPartyColor(partyCode, isWin, pctStr) {
     h = PARTY_TO_H[partyCode];
     s = 100;
   }
+  let l = 50.0;
+  if (PARTY_TO_L[partyCode] !== undefined) {
+    l = PARTY_TO_L[partyCode];
+  }
 
   let a;
   if (p < 0.5) {
@@ -46,5 +50,5 @@ export function getPartyColor(partyCode, isWin, pctStr) {
   } else {
     a = 0.4;
   }
-  return hsla(h, s, 50, a);
+  return hsla(h, s, l, a);
 }
