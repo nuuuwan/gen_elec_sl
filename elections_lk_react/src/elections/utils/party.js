@@ -12,6 +12,10 @@ export function getPartyList(result) {
     function(a, b) {
       return b['vote_count'] - a['vote_count'];
     },
+  ).sort(
+    function(a, b) {
+      return b['seat_count'] - a['seat_count'];
+    },
   ).map(
     function(x) {
       return x['party_code'];

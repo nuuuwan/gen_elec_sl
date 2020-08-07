@@ -16,8 +16,6 @@ const PARTY_TO_H = {
   'AITC': 15,
   'AITM': 15,
   'SDPT': 15,
-  'TULF': 15,
-
   'NC': 150,
   'MNA': 150,
   'UPA': 150,

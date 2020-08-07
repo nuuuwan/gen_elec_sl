@@ -6,7 +6,6 @@ import {renderLoading} from '../utils/render.js';
 import {formatPercent} from '../utils/data.js';
 
 import ChartMap from '../components/ChartMap.js';
-import ChartPie from '../components/ChartPie.js';
 import TableRowDetailedResults from '../components/TableRowDetailedResults.js';
 import TableRowHeaderDetailedResults
   from '../components/TableRowHeaderDetailedResults.js';
