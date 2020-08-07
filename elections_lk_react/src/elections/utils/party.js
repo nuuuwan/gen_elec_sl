@@ -8,7 +8,11 @@ import {parsePctStr} from '../utils/data.js';
 const DEFAULT_BACK_COLOR = 'white';
 
 export function getPartyList(result) {
-  return result['by_party'].map(
+  return result['by_party'].sort(
+    function(a, b) {
+      return b['vote_count'] - a['vote_count'];
+    },
+  ).map(
     function(x) {
       return x['party_code'];
     },

@@ -34,16 +34,7 @@ export default class TableEDSummary extends Component {
     if (!lkSeatSummaryIncrLast) {
       return null;
     }
-    const partyList = getPartyList(lkSeatSummaryIncrLast);
 
-    const edVoteSummaryByEdCode = edVoteSummary.reduce(
-      function(edVoteSummaryByEdCode, resultVote, i) {
-        const edCode = resultVote['ed_code'];
-        edVoteSummaryByEdCode[edCode] = resultVote;
-        return edVoteSummaryByEdCode;
-      },
-      {},
-    );
     const partyToVoteCount = edVoteSummary.reduce(
       function(partyToVoteCount, resultVote, i) {
         return resultVote['by_party'].reduce(
@@ -81,6 +72,17 @@ export default class TableEDSummary extends Component {
         forParty['vote_percentage'] = formatPercent(voteCount, totalVotes);
         return forParty;
       },
+    );
+
+    const partyList = getPartyList(lkSeatSummaryIncrLast);
+
+    const edVoteSummaryByEdCode = edVoteSummary.reduce(
+      function(edVoteSummaryByEdCode, resultVote, i) {
+        const edCode = resultVote['ed_code'];
+        edVoteSummaryByEdCode[edCode] = resultVote;
+        return edVoteSummaryByEdCode;
+      },
+      {},
     );
 
     const headerRow = (
