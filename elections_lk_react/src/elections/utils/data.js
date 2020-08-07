@@ -18,7 +18,7 @@ async function getJson(jsonFileName, isCached=false) {
 
 export async function getResults(year) {
   const dataFileName = `data/elections/gen_elec_sl.ec.results.${year}.json`;
-  return await getJson(dataFileName)
+  return await getJson(dataFileName, true)
 }
 
 export async function getResultGroups(year) {
