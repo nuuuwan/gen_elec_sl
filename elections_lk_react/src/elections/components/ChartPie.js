@@ -30,7 +30,7 @@ export default class ChartPie extends Component {
       'vote_percentage': formatPercent(1 - pSum, 1),
     }]);
 
-    const r = 120;
+    const r = 165;
     const cx = r;
     const cy = r;
 
@@ -55,7 +55,10 @@ export default class ChartPie extends Component {
 
         const thetaMid = (prevThetaRad + thetaRad) / 2;
 
-        const D_TEXT = 0.5;
+        let D_TEXT = 0.5;
+        if (p < 0.1) {
+          D_TEXT = 0.75;
+        }
         const x01 = cx + r * Math.sin(thetaMid) * D_TEXT;
         const y01 = cy - r * Math.cos(thetaMid) * D_TEXT;
 
@@ -81,7 +84,7 @@ export default class ChartPie extends Component {
           labelP = votePercentage;
         }
 
-        const fontSize = Math.sqrt(p) * 36;
+        const fontSize = Math.sqrt(p) * 48;
 
         return (
           <svg key={partyCode}>

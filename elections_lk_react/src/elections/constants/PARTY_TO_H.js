@@ -20,12 +20,13 @@ const PARTY_TO_H = {
 
   'NC': 150,
   'MNA': 150,
+  'UPA': 150,
 }
 
 export const PARTY_TO_L = {
-  'SLPP': 25,
-  'SJB': 25,
-  'TNA': 25,
+  'SLPP': 35,
+  'SJB': 35,
+  'ITAK': 35,
 }
 
 export default PARTY_TO_H;
