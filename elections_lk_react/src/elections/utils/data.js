@@ -96,3 +96,14 @@ export async function downloadResults(year) {
     `gen_elec_sl.ec.results.${year}.json`,
   );
 }
+
+
+export function formatPercent(n, d) {
+  return Number(n / d).toLocaleString(
+      undefined,
+      {
+        style: 'percent',
+        minimumFractionDigits:2,
+      }
+  );
+}

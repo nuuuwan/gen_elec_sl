@@ -46,12 +46,12 @@ export default class HomePage extends Component {
     const detailedResultList = resultGroups[RESULT_TYPE.RP_V];
     const edResultSummaryList = resultGroups[RESULT_TYPE.RE_VI];
 
-    const edSummary = resultGroups[RESULT_TYPE.RE_S];
-    const lkSummaryIncr = resultGroups[RESULT_TYPE.RN_SI];
-    const lkSummaryIncrLast = (lkSummaryIncr)
-      ? lkSummaryIncr.slice(-1)[0]
+    const edSeatSummary = resultGroups[RESULT_TYPE.RE_S];
+    const edVoteSummary = resultGroups[RESULT_TYPE.RE_V];
+    const lkSeatSummaryIncr = resultGroups[RESULT_TYPE.RN_SI];
+    const lkSeatSummaryIncrLast = (lkSeatSummaryIncr)
+      ? lkSeatSummaryIncr.slice(-1)[0]
       : null;
-
     const candidateResultList = resultGroups[RESULT_TYPE.RE_SC];
 
     const finalSeatsGroup = resultGroups[RESULT_TYPE.RN_VSN];
@@ -78,8 +78,9 @@ export default class HomePage extends Component {
           <TableLatestResults detailedResultList={detailedResultList} />
           <TableFinalSeats finalSeats={finalSeats} />
           <TableEDSummary
-            edSummary={edSummary}
-            lkSummaryIncrLast={lkSummaryIncrLast}
+            edVoteSummary={edVoteSummary}
+            edSeatSummary={edSeatSummary}
+            lkSeatSummaryIncrLast={lkSeatSummaryIncrLast}
           />
           <TableDetailedResults
             detailedResultList={detailedResultList}
